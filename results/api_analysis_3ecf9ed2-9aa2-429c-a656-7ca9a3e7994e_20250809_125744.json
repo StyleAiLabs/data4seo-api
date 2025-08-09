@@ -1,0 +1,118 @@
+{
+  "analysis_id": "3ecf9ed2-9aa2-429c-a656-7ca9a3e7994e",
+  "request": {
+    "brand_name": "Mayo Clinic",
+    "brand_domain": "mayoclinic.org",
+    "competitors": [
+      "webmd.com",
+      "healthline.com"
+    ],
+    "serp_queries": [
+      "diabetes symptoms"
+    ],
+    "industry": "Healthcare",
+    "location": "United States",
+    "device": "desktop",
+    "language": "English"
+  },
+  "results": [
+    {
+      "query": "diabetes symptoms",
+      "location": "United States",
+      "device": "desktop",
+      "timestamp": "2025-08-09T12:56:58.898320",
+      "google_ai_overview_present": true,
+      "google_brand_cited": true,
+      "google_ai_citations": [
+        "www.cdc.gov",
+        "www.niddk.nih.gov",
+        "www.webmd.com",
+        "www.mayoclinic.org",
+        "my.clevelandclinic.org",
+        "www.breakthrought1d.org",
+        "www.nhs.uk",
+        "www.wayneunc.org",
+        "www.nhs.uk",
+        "www.youtube.com",
+        "www.health.com",
+        "www.ncbi.nlm.nih.gov",
+        "healthcareassociates.com",
+        "www.verywellhealth.com",
+        "www.fortishealthcare.com",
+        "now.optum.com",
+        "hfhealth.co.uk",
+        "www.khanacademy.org",
+        "www.mayoclinic.org",
+        "www.mvsu.edu"
+      ],
+      "google_competitor_citations": {
+        "webmd.com": 1
+      },
+      "bing_ai_features": [],
+      "bing_brand_visibility": false,
+      "featured_snippet_present": false,
+      "knowledge_graph_present": true,
+      "people_also_ask_present": true,
+      "people_also_ask_queries": [
+        "What are the 10 early signs of diabetes?",
+        "What foods should Type 2 diabetics avoid?",
+        "Is type 2 diabetes my own fault?",
+        "How do I know if I'm diabetic?"
+      ],
+      "bing_people_also_ask_present": true,
+      "bing_people_also_ask_queries": [
+        "diabetes causes",
+        "list of symptoms for diabetes",
+        "12 signs of uncontrolled diabetes",
+        "type 2 diabetes symptoms",
+        "diabetes symptoms women",
+        "top 10 symptoms of diabetes",
+        "diabetes symptoms in men",
+        "diabetes diagnosis"
+      ],
+      "ai_visibility_score": 80.0,
+      "competitor_ai_scores": {
+        "webmd.com": 80.0,
+        "healthline.com": 10.0
+      },
+      "ai_dominance_rank": 1
+    }
+  ],
+  "summary": {
+    "total_queries": 1,
+    "ai_overview_presence": {
+      "count": 1,
+      "percentage": 100.0
+    },
+    "brand_citations": {
+      "count": 1,
+      "percentage": 100.0
+    },
+    "ai_visibility_scoring": {
+      "average_score": 80.0,
+      "max_score": 100.0
+    },
+    "people_also_ask_insights": {
+      "google_paa": {
+        "queries_with_paa": 1,
+        "total_questions": 4,
+        "percentage": 100.0
+      },
+      "bing_paa": {
+        "queries_with_paa": 1,
+        "total_questions": 8,
+        "percentage": 100.0
+      },
+      "combined_insights": {
+        "total_questions": 12,
+        "engines_with_paa": 2
+      }
+    },
+    "competitor_analysis": {
+      "competitor_citations": {
+        "webmd.com": 1
+      },
+      "competitors_found": 1
+    }
+  }
+}

@@ -142,7 +142,21 @@ GET /api/v1/analysis/{analysis_id}
       "bing_brand_visibility": true,
       "featured_snippet_present": true,
       "knowledge_graph_present": false,
-      "people_also_ask_present": true
+      "people_also_ask_present": true,
+      "people_also_ask_queries": [
+        "What are the best running shoes for beginners?",
+        "How often should you replace running shoes?",
+        "What's the difference between road and trail running shoes?"
+      ],
+      "bing_people_also_ask_present": true,
+      "bing_people_also_ask_queries": [
+        "running shoes for flat feet",
+        "best running shoes 2025",
+        "running shoes vs walking shoes"
+      ],
+      "ai_visibility_score": 85.0,
+      "competitor_ai_scores": {"adidas.com": 70.0, "puma.com": 45.0},
+      "ai_dominance_rank": 1
     }
   ],
   "summary": {
@@ -154,6 +168,30 @@ GET /api/v1/analysis/{analysis_id}
     "brand_citations": {
       "count": 1,
       "percentage": 100.0
+    },
+    "ai_visibility_scoring": {
+      "average_score": 85.0,
+      "max_score": 100.0
+    },
+    "people_also_ask_insights": {
+      "google_paa": {
+        "queries_with_paa": 1,
+        "total_questions": 3,
+        "percentage": 100.0
+      },
+      "bing_paa": {
+        "queries_with_paa": 1,
+        "total_questions": 3,
+        "percentage": 100.0
+      },
+      "combined_insights": {
+        "total_questions": 6,
+        "engines_with_paa": 2
+      }
+    },
+    "competitor_analysis": {
+      "competitor_citations": {"adidas.com": 1},
+      "competitors_found": 1
     }
   },
   "started_at": "2025-08-09T14:30:25",

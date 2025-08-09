@@ -206,15 +206,35 @@ async def run_analysis(analysis_id: str, request: AnalysisRequest, login: str, p
                 "bing_brand_visibility": result.bing_brand_visibility,
                 "featured_snippet_present": result.featured_snippet_present,
                 "knowledge_graph_present": result.knowledge_graph_present,
-                "people_also_ask_present": result.people_also_ask_present
+                "people_also_ask_present": result.people_also_ask_present,
+                # Enhanced fields
+                "people_also_ask_queries": getattr(result, 'people_also_ask_queries', []) or [],
+                "bing_people_also_ask_present": getattr(result, 'bing_people_also_ask_present', False),
+                "bing_people_also_ask_queries": getattr(result, 'bing_people_also_ask_queries', []) or [],
+                "ai_visibility_score": getattr(result, 'ai_visibility_score', 0.0),
+                "competitor_ai_scores": getattr(result, 'competitor_ai_scores', {}) or {},
+                "ai_dominance_rank": getattr(result, 'ai_dominance_rank', 0)
             }
             for result in results
         ]
         
-        # Generate summary
+        # Generate enhanced summary
         total_queries = len(results)
         ai_overview_count = sum(1 for r in results if r.google_ai_overview_present)
         brand_citation_count = sum(1 for r in results if r.google_brand_cited)
+        
+        # Calculate enhanced metrics
+        avg_ai_score = sum(getattr(r, 'ai_visibility_score', 0.0) for r in results) / total_queries if total_queries > 0 else 0
+        google_paa_count = sum(1 for r in results if getattr(r, 'people_also_ask_queries', []))
+        bing_paa_count = sum(1 for r in results if getattr(r, 'bing_people_also_ask_queries', []))
+        total_google_paa_questions = sum(len(getattr(r, 'people_also_ask_queries', [])) for r in results)
+        total_bing_paa_questions = sum(len(getattr(r, 'bing_people_also_ask_queries', [])) for r in results)
+        
+        # Competitor analysis
+        all_competitor_citations = {}
+        for r in results:
+            for comp, count in r.google_competitor_citations.items():
+                all_competitor_citations[comp] = all_competitor_citations.get(comp, 0) + count
         
         summary = {
             "total_queries": total_queries,
@@ -225,6 +245,30 @@ async def run_analysis(analysis_id: str, request: AnalysisRequest, login: str, p
             "brand_citations": {
                 "count": brand_citation_count,
                 "percentage": round((brand_citation_count / ai_overview_count) * 100, 1) if ai_overview_count > 0 else 0
+            },
+            "ai_visibility_scoring": {
+                "average_score": round(avg_ai_score, 1),
+                "max_score": 100.0
+            },
+            "people_also_ask_insights": {
+                "google_paa": {
+                    "queries_with_paa": google_paa_count,
+                    "total_questions": total_google_paa_questions,
+                    "percentage": round((google_paa_count / total_queries) * 100, 1) if total_queries > 0 else 0
+                },
+                "bing_paa": {
+                    "queries_with_paa": bing_paa_count,
+                    "total_questions": total_bing_paa_questions,
+                    "percentage": round((bing_paa_count / total_queries) * 100, 1) if total_queries > 0 else 0
+                },
+                "combined_insights": {
+                    "total_questions": total_google_paa_questions + total_bing_paa_questions,
+                    "engines_with_paa": len([x for x in [google_paa_count, bing_paa_count] if x > 0])
+                }
+            },
+            "competitor_analysis": {
+                "competitor_citations": all_competitor_citations,
+                "competitors_found": len(all_competitor_citations)
             }
         }
         
