@@ -1,0 +1,22 @@
+{
+  "dataforseo": {
+    "base_url": "https://api.dataforseo.com/v3",
+    "rate_limit_delay": 1.0,
+    "max_keywords_per_analysis": 20
+  },
+  "default_settings": {
+    "language": "English",
+    "device": "desktop",
+    "location": "United States"
+  },
+  "ai_engines": {
+    "google": {
+      "ai_overview_types": ["ai_overview"],
+      "serp_features": ["featured_snippet", "knowledge_graph", "people_also_ask", "top_stories"]
+    },
+    "bing": {
+      "ai_feature_types": ["answer_box", "instant_answer", "knowledge_graph"],
+      "serp_features": ["featured_snippet", "people_also_ask"]
+    }
+  }
+}

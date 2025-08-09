@@ -1,0 +1,1861 @@
+{
+  "keyword": "AI search",
+  "total_items": 102,
+  "first_10_items": [
+    {
+      "type": "organic",
+      "rank_group": 1,
+      "rank_absolute": 1,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "domain": "search.google",
+      "title": "AI in search",
+      "url": "https://search.google/ai-in-search/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://search.google \u203a ai-in-search",
+      "website_name": "search.google",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Try a whole new way to search. With generative AI features like AI Overviews and AI Mode, you can bring your toughest questions, right to Search.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "search",
+        "AI",
+        "Search"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 2,
+      "rank_absolute": 2,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+      "domain": "www.perplexity.ai",
+      "title": "Perplexity AI",
+      "url": "https://www.perplexity.ai/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://www.perplexity.ai",
+      "website_name": "Perplexity",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "provides accurate, trusted, and real-time answers"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 3,
+      "rank_absolute": 3,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+      "domain": "blog.google",
+      "title": "AI in Search: Driving more queries and higher quality clicks",
+      "url": "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://blog.google \u203a products \u203a ai-search-driving-more-...",
+      "website_name": "The Keyword",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "AI in Search is driving more queries and higher quality clicks \u00b7 Traffic trends from Google Search \u00b7 Building AI in Search to highlight the web.",
+      "pre_snippet": "3 days ago",
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "AI in Search is driving more queries and higher quality clicks"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": "2025-08-06 10:45:19 +00:00",
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 4,
+      "rank_absolute": 4,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+      "domain": "gemini.google.com",
+      "title": "Google Gemini",
+      "url": "https://gemini.google.com/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://gemini.google.com",
+      "website_name": "Gemini",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Meet Gemini, Google's AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Google's AI assistant"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 5,
+      "rank_absolute": 5,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+      "domain": "ai.google",
+      "title": "Google AI - How we're making AI helpful for everyone",
+      "url": "https://ai.google/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://ai.google",
+      "website_name": "Google AI",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technologies.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Google AI"
+      ],
+      "links": [
+        {
+          "type": "link_element",
+          "title": "Learn essential AI skills",
+          "description": null,
+          "url": "https://ai.google/learn-ai-skills/",
+          "domain": "ai.google"
+        },
+        {
+          "type": "link_element",
+          "title": "Build",
+          "description": null,
+          "url": "https://ai.google/build/",
+          "domain": "ai.google"
+        },
+        {
+          "type": "link_element",
+          "title": "Why AI",
+          "description": null,
+          "url": "https://ai.google/why-ai/",
+          "domain": "ai.google"
+        },
+        {
+          "type": "link_element",
+          "title": "AI Principles",
+          "description": null,
+          "url": "https://ai.google/principles/",
+          "domain": "ai.google"
+        }
+      ],
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 6,
+      "rank_absolute": 6,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+      "domain": "www.youtube.com",
+      "title": "AI Search",
+      "url": "https://www.youtube.com/channel/UCIgnGlGkVRhd4qNFcEwLL4A",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "517K+ followers",
+      "website_name": "YouTube\u00a0\u00b7\u00a0AI Search",
+      "is_image": true,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Making AI easy to understand for everyone. Subscribe to stay on top of the latest AI news, trends, and tools!",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": [
+        {
+          "type": "images_element",
+          "alt": "AI search from www.youtube.com",
+          "url": "https://www.youtube.com/channel/UCIgnGlGkVRhd4qNFcEwLL4A",
+          "image_url": "https://api.dataforseo.com/cdn/i/08091345-1066-0139-0000-a702f64fb9ab:0"
+        }
+      ],
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Making AI easy to understand for everyone"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "people_also_ask",
+      "rank_group": 1,
+      "rank_absolute": 7,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+      "items": [
+        {
+          "type": "people_also_ask_element",
+          "title": "Is ChatGPT AI free?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+            {
+              "type": "people_also_ask_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Yes, ChatGPT has a free tier. OpenAI offers a free version of ChatGPT that provides access to a range of features and capabilities, including GPT-4o, web browsing, image generation, and more. While a paid subscription, ChatGPT Plus, exists for those seeking advanced features and higher usage limits, the free tier remains a valuable and widely accessible option.",
+                  "markdown": "`Yes, ChatGPT has a free tier`.OpenAI offers a free version of ChatGPT that provides access to a range of features and capabilities, including GPT-4o, web browsing, image generation, and more.While a paid subscription, ChatGPT Plus, exists for those seeking advanced features and higher usage limits, the free tier remains a valuable and widely accessible option.[[1]](https://openai.com/chatgpt/pricing/#:~:text=Everything%20in%20Free,$20/%20month)[[2]](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0)[[3]](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#:~:text=ChatGPT%20is%20free%20to%20use,obtain%20up-to-date%20information)[[4]](https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20%28lightweight%20version%29)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OpenAI",
+                      "domain": "openai.com",
+                      "url": "https://openai.com/chatgpt/pricing/#:~:text=Everything%20in%20Free,$20/%20month",
+                      "title": "Pricing - ChatGPT - OpenAI",
+                      "text": "Everything in Free. Extended access to GPT\u20115, our flagship model. Extended limits on messaging, file uploads, data analysis, and i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OpenAI",
+                      "domain": "openai.com",
+                      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0",
+                      "title": "Introducing GPT-4o and more tools to ChatGPT free users - OpenAI",
+                      "text": "May 13, 2024 \u2014 Bringing more intelligence and advanced tools for free Our mission includes making advanced AI tools available to as m..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OpenAI Help Center",
+                      "domain": "help.openai.com",
+                      "url": "https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#:~:text=ChatGPT%20is%20free%20to%20use,obtain%20up-to-date%20information",
+                      "title": "ChatGPT Free Tier FAQ - OpenAI Help Center",
+                      "text": "ChatGPT is free to use, and Free tier users now have access to a large range of capabilities with GPT-4o, including access to a se..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "ZDNET",
+                      "domain": "www.zdnet.com",
+                      "url": "https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20(lightweight%20version)",
+                      "title": "Is ChatGPT Plus really worth $20 when the free version offers so ...",
+                      "text": "Jun 15, 2025 \u2014 1. You don't want to pay a monthly fee. The free subscription now offers many competitive AI features, reducing the ne..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Here's a more detailed breakdown:",
+                  "text": "Free Tier: This tier offers access to the latest model (currently GPT-4o), along with features like web browsing, image generation (with limits), data analysis, and the ability to upload files and photos. ChatGPT Plus : This paid subscription ($20/month) provides users with faster responses, priority access to new features, and higher usage limits. Free Access: OpenAI's mission is to make advanced AI tools accessible to as many people as possible, which is why they offer a free tier. GPT-4o: The free tier provides access to GPT-4o, which includes many of the advanced features previously only available to paid users. Continued Updates: The free version is continuously updated with new features and improvements.",
+                  "markdown": "- **Free Tier:** This tier offers access to the latest model (currently GPT-4o), along with features like web browsing, image generation (with limits), data analysis, and the ability to upload files and photos.[[1]](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0)[[2]](https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20%28lightweight%20version%29)\n- **[ChatGPT Plus](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=ChatGPT+Plus&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIsAQQAQ):** This paid subscription ($20/month) provides users with faster responses, priority access to new features, and higher usage limits.[[1]](https://openai.com/chatgpt/pricing/#:~:text=Everything%20in%20Free,$20/%20month)[[2]](https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20%28lightweight%20version%29)[[3]](https://www.cloudeagle.ai/blogs/blog-chatgpt-pricing-guide#:~:text=How%20Much%20Does%20ChatGPT%20Cost,user/month%20if%20billed%20annually.)\n- **Free Access:** OpenAI's mission is to make advanced AI tools accessible to as many people as possible, which is why they offer a free tier.[[1]](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0)[[2]](https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20%28lightweight%20version%29)\n- **GPT-4o:** The free tier provides access to GPT-4o, which includes many of the advanced features previously only available to paid users.[[1]](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0)[[2]](https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20%28lightweight%20version%29)\n- **Continued Updates:** The free version is continuously updated with new features and improvements.[[1]](https://www.scribbr.com/frequently-asked-questions/how-long-will-chatgpt-be-free/#:~:text=You%20just%20have%20to%20sign,chat%20box%20to%20get%20started!)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "ChatGPT Plus",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=ChatGPT+Plus&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIsAQQAQ",
+                      "domain": "www.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OpenAI",
+                      "domain": "openai.com",
+                      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0",
+                      "title": "Introducing GPT-4o and more tools to ChatGPT free users - OpenAI",
+                      "text": "May 13, 2024 \u2014 Bringing more intelligence and advanced tools for free Our mission includes making advanced AI tools available to as m..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "ZDNET",
+                      "domain": "www.zdnet.com",
+                      "url": "https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20(lightweight%20version)",
+                      "title": "Is ChatGPT Plus really worth $20 when the free version offers so ...",
+                      "text": "Jun 15, 2025 \u2014 1. You don't want to pay a monthly fee. The free subscription now offers many competitive AI features, reducing the ne..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OpenAI",
+                      "domain": "openai.com",
+                      "url": "https://openai.com/chatgpt/pricing/#:~:text=Everything%20in%20Free,$20/%20month",
+                      "title": "Pricing - ChatGPT - OpenAI",
+                      "text": "Everything in Free. Extended access to GPT\u20115, our flagship model. Extended limits on messaging, file uploads, data analysis, and i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "CloudEagle.ai",
+                      "domain": "www.cloudeagle.ai",
+                      "url": "https://www.cloudeagle.ai/blogs/blog-chatgpt-pricing-guide#:~:text=How%20Much%20Does%20ChatGPT%20Cost,user/month%20if%20billed%20annually.",
+                      "title": "ChatGPT Pricing Guide: Plans, Features, and Alternatives",
+                      "text": "Jul 10, 2025 \u2014 How Much Does ChatGPT Cost? ChatGPT offers a free plan with basic access and a premium subscription called ChatGPT Plu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/frequently-asked-questions/how-long-will-chatgpt-be-free/#:~:text=You%20just%20have%20to%20sign,chat%20box%20to%20get%20started!",
+                      "title": "How long will ChatGPT be free? - Scribbr",
+                      "text": "You just have to sign up for a free account (using your email address or your Google account), and you can start using the tool im..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can access the free version of ChatGPT through the OpenAI website or the mobile app.",
+                  "markdown": "You can access the free version of ChatGPT through the OpenAI website or the mobile app.[[1]](https://www.analyticsvidhya.com/blog/2023/12/chatgpt-4-for-free/#:~:text=access%20to%20ChatGPT.-,1st%20Method:%20OpenAI's%20ChatGPT%20Free%20Online%20Tier,website%20or%20app%20without%20cost.)[[2]](https://www.scribbr.com/frequently-asked-questions/how-long-will-chatgpt-be-free/#:~:text=You%20just%20have%20to%20sign,chat%20box%20to%20get%20started!)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Analytics Vidhya",
+                      "domain": "www.analyticsvidhya.com",
+                      "url": "https://www.analyticsvidhya.com/blog/2023/12/chatgpt-4-for-free/#:~:text=access%20to%20ChatGPT.-,1st%20Method:%20OpenAI's%20ChatGPT%20Free%20Online%20Tier,website%20or%20app%20without%20cost.",
+                      "title": "8 Easy Ways to Access ChatGPT for Free - Analytics Vidhya",
+                      "text": "May 1, 2025 \u2014 1st Method: OpenAI's ChatGPT Free Online Tier This is the easiest method to use ChatGPT. OpenAI, the company that devel..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/frequently-asked-questions/how-long-will-chatgpt-be-free/#:~:text=You%20just%20have%20to%20sign,chat%20box%20to%20get%20started!",
+                      "title": "How long will ChatGPT be free? - Scribbr",
+                      "text": "You just have to sign up for a free account (using your email address or your Google account), and you can start using the tool im..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI",
+                  "domain": "openai.com",
+                  "url": "https://openai.com/chatgpt/pricing/#:~:text=Everything%20in%20Free,$20/%20month",
+                  "title": "Pricing - ChatGPT - OpenAI",
+                  "text": "Everything in Free. Extended access to GPT\u20115, our flagship model. Extended limits on messaging, file uploads, data analysis, and i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI",
+                  "domain": "openai.com",
+                  "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/#:~:text=Bringing%20more%20intelligence%20and%20advanced,helpful%20experience%20with%20Memory%E2%81%A0",
+                  "title": "Introducing GPT-4o and more tools to ChatGPT free users - OpenAI",
+                  "text": "May 13, 2024 \u2014 Bringing more intelligence and advanced tools for free Our mission includes making advanced AI tools available to as m..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Help Center",
+                  "domain": "help.openai.com",
+                  "url": "https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#:~:text=ChatGPT%20is%20free%20to%20use,obtain%20up-to-date%20information",
+                  "title": "ChatGPT Free Tier FAQ - OpenAI Help Center",
+                  "text": "ChatGPT is free to use, and Free tier users now have access to a large range of capabilities with GPT-4o, including access to a se..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Analytics Vidhya",
+                  "domain": "www.analyticsvidhya.com",
+                  "url": "https://www.analyticsvidhya.com/blog/2023/12/chatgpt-4-for-free/#:~:text=access%20to%20ChatGPT.-,1st%20Method:%20OpenAI's%20ChatGPT%20Free%20Online%20Tier,website%20or%20app%20without%20cost.",
+                  "title": "8 Easy Ways to Access ChatGPT for Free - Analytics Vidhya",
+                  "text": "May 1, 2025 \u2014 1st Method: OpenAI's ChatGPT Free Online Tier This is the easiest method to use ChatGPT. OpenAI, the company that devel..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "ZDNET",
+                  "domain": "www.zdnet.com",
+                  "url": "https://www.zdnet.com/article/is-chatgpt-plus-really-worth-20-when-the-free-version-offers-so-many-premium-features/#:~:text=Betters%20Picaro%20/%20ZDNET-,1.,referencing%20recent%20conversations%20(lightweight%20version)",
+                  "title": "Is ChatGPT Plus really worth $20 when the free version offers so ...",
+                  "text": "Jun 15, 2025 \u2014 1. You don't want to pay a monthly fee. The free subscription now offers many competitive AI features, reducing the ne..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Scribbr",
+                  "domain": "www.scribbr.com",
+                  "url": "https://www.scribbr.com/frequently-asked-questions/how-long-will-chatgpt-be-free/#:~:text=You%20just%20have%20to%20sign,chat%20box%20to%20get%20started!",
+                  "title": "How long will ChatGPT be free? - Scribbr",
+                  "text": "You just have to sign up for a free account (using your email address or your Google account), and you can start using the tool im..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "CloudEagle.ai",
+                  "domain": "www.cloudeagle.ai",
+                  "url": "https://www.cloudeagle.ai/blogs/blog-chatgpt-pricing-guide#:~:text=How%20Much%20Does%20ChatGPT%20Cost,user/month%20if%20billed%20annually.",
+                  "title": "ChatGPT Pricing Guide: Plans, Features, and Alternatives",
+                  "text": "Jul 10, 2025 \u2014 How Much Does ChatGPT Cost? ChatGPT offers a free plan with basic access and a premium subscription called ChatGPT Plu..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "people_also_ask_element",
+          "title": "How to get Google AI search?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+            {
+              "type": "people_also_ask_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "To get Google's AI-powered search features, you'll need to access \"AI Mode\" in Google Search. This feature is available through the Google app or by visiting google.com/aimode and searching with AI Mode enabled. You can also find it by tapping the Labs icon (beaker icon) within the Google app or at labs.google.com/arch.",
+                  "markdown": "To get Google's AI-powered search features, you'll need to `access \"AI Mode\" in Google Search`.This feature is available through the Google app or by visiting `google.com/aimode` and searching with AI Mode enabled.You can also find it by tapping the Labs icon (beaker icon) within the Google app or at labs.google.com/arch.[[1]](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.)[[2]](https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.)[[3]](https://www.youtube.com/shorts/3wSmlGO70z0)[[4]](https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search#:~:text=Go%20to%20the%20Create%20App%20page.,-AI%20Applications%20-%20Create&text=Applications%20-%20Create%20App-,Under%20Site%20search%20with%20AI%20mode%2C%20click%20Create.,the%20number%20of%20documents%20imported.)[[5]](https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.",
+                      "title": "\u201cAI Overviews and more\u201d in Search Labs - Android - Google Help",
+                      "text": "Get \"AI Overviews and more\" in search results. On your Android device, open any browser. Make sure you're signed in to your Google..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.",
+                      "title": "Get AI-powered responses with AI Mode in Google Search - Computer",
+                      "text": "How to access AI Mode. You can access AI Mode in three ways: Go to google.com/aimode. Go to www.google.com, enter a question in th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/3wSmlGO70z0",
+                      "title": "How to use the new generative AI experience in Google Search ...",
+                      "text": "Jun 8, 2023 \u2014 here's how to use the new generative AI experience in Google search first sign up by tapping the labs icon in the lates..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Cloud",
+                      "domain": "cloud.google.com",
+                      "url": "https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search#:~:text=Go%20to%20the%20Create%20App%20page.,-AI%20Applications%20-%20Create&text=Applications%20-%20Create%20App-,Under%20Site%20search%20with%20AI%20mode%2C%20click%20Create.,the%20number%20of%20documents%20imported.",
+                      "title": "Get started with custom search | AI Applications - Google Cloud",
+                      "text": "Go to the Create App page. ... Under Site search with AI mode, click Create. Make sure that Enterprise edition features is turned ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.",
+                      "title": "\u201cAI Mode\u201d in Search Labs - Android - Google Help",
+                      "text": "Make sure you're signed in to your Google Account with Incognito mode turned off. Enter a question in the Search bar on Google, an..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Here's how to access it:",
+                  "text": "1.  Through the Google App: Open the Google app on your phone and look for the AI Mode option on the home screen. It may be a button or a link below the search bar. 2.  Via Google Search: Go to google.com, enter your search query, and look for the AI Mode option below the search bar. 3.  Using Search Labs: You can also find it within Search Labs, accessed through the Google app or by visiting labs.google.com/arch.",
+                  "markdown": "[**1.** **Through the Google App:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Through+the+Google+App&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUInQUQAw) Open the Google app on your phone and look for the AI Mode option on the home screen.It may be a button or a link below the search bar.[[1]](https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.)[[2]](https://support.google.com/websearch/answer/16329036?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20started%20with%20Search%20Live%20On%20your,Search%20Live%20anytime%2C%20tap%20the%20Live%20.)[[3]](https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.)\n[**2.** **Via Google Search:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Via+Google+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI2QUQAw) Go to [google.com](http://google.com/) , enter your search query, and look for the AI Mode option below the search bar.[[1]](https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.)[[2]](https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.)\n[**3.** **Using Search Labs:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Using+Search+Labs&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIzwUQAw) You can also find it within Search Labs, accessed through the Google app or by visiting labs.google.com/arch.[[1]](https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.)[[2]](https://www.youtube.com/shorts/3wSmlGO70z0)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "1.  Through the Google App:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Through+the+Google+App&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUInQUQAw",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "2.  Via Google Search:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Via+Google+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI2QUQAw",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "google.com",
+                      "description": null,
+                      "url": "http://google.com/",
+                      "domain": "google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "3.  Using Search Labs:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Using+Search+Labs&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIzwUQAw",
+                      "domain": "www.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.",
+                      "title": "Get AI-powered responses with AI Mode in Google Search - Computer",
+                      "text": "How to access AI Mode. You can access AI Mode in three ways: Go to google.com/aimode. Go to www.google.com, enter a question in th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/16329036?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20started%20with%20Search%20Live%20On%20your,Search%20Live%20anytime%2C%20tap%20the%20Live%20.",
+                      "title": "Search Live: Talk with Search in AI Mode - Android - Google Search Help",
+                      "text": "Get started with Search Live On your Android phone, open the Google app Below the Search bar, tap Live . If you're a first-time us..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.",
+                      "title": "\u201cAI Mode\u201d in Search Labs - Android - Google Help",
+                      "text": "Make sure you're signed in to your Google Account with Incognito mode turned off. Enter a question in the Search bar on Google, an..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/3wSmlGO70z0",
+                      "title": "How to use the new generative AI experience in Google Search ...",
+                      "text": "Jun 8, 2023 \u2014 here's how to use the new generative AI experience in Google search first sign up by tapping the labs icon in the lates..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What you can do with it:",
+                  "text": "AI Overviews: Get concise summaries of information from multiple sources, with links to explore further. AI Mode: Engage in more conversational searches, ask follow-up questions, and get more in-depth information on a topic. Deep Search: For more complex questions, try Deep Search, which provides comprehensive, cited reports by reasoning across multiple websites. Agentic capabilities: AI Mode can also help with tasks like finding tickets or making reservations, by analyzing options and helping you complete the purchase. Live Search (with video input): Use Google Lens with live video input to get real-time help with visual searches and have conversations with Search in AI Mode.",
+                  "markdown": "- **AI Overviews:** Get concise summaries of information from multiple sources, with links to explore further.[[1]](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.)[[2]](https://search.google/ways-to-search/ai-overviews/#:~:text=Find%20what%20you're%20looking,English%20searches%20in%20the%20US)\n- **AI Mode:** Engage in more conversational searches, ask follow-up questions, and get more in-depth information on a topic.[[1]](https://www.youtube.com/shorts/3wSmlGO70z0)[[2]](https://search.google/ways-to-search/ai-mode/#:~:text=Research%20made%20easy&text=Ask%20your%20question%20all%20in,explore%20more%20on%20the%20web.&text=For%20questions%20where%20you%20want,Google%20AI%20subscribers%20in%20Labs.&text=Ask%20follow-up%20questions%20to,up%20where%20you%20left%20off.&text=AI%20Mode%20connects%20you%20to,a%20wide%20range%20of%20perspectives.)\n- **Deep Search:** For more complex questions, try Deep Search, which provides comprehensive, cited reports by reasoning across multiple websites.[[1]](https://search.google/ways-to-search/ai-mode/#:~:text=Research%20made%20easy&text=Ask%20your%20question%20all%20in,explore%20more%20on%20the%20web.&text=For%20questions%20where%20you%20want,Google%20AI%20subscribers%20in%20Labs.&text=Ask%20follow-up%20questions%20to,up%20where%20you%20left%20off.&text=AI%20Mode%20connects%20you%20to,a%20wide%20range%20of%20perspectives.)\n- **Agentic capabilities:** AI Mode can also help with tasks like finding tickets or making reservations, by analyzing options and helping you complete the purchase.[[1]](https://blog.google/products/search/google-search-ai-mode-update/#:~:text=Agentic%20capabilities%2C%20to%20do%20the,a%20seamless%20and%20helpful%20experience.)\n- **Live Search (with video input):** Use Google Lens with live video input to get real-time help with visual searches and have conversations with Search in AI Mode.[[1]](https://blog.google/products/search/ai-mode-updates-back-to-school/#:~:text=Get%20real-time%20help%20with,helpful%20links%20on%20the%20web.&text=Search%20Live%20is%20fully%20integrated,the%20AI%20Mode%20Labs%20experiment.)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.",
+                      "title": "\u201cAI Overviews and more\u201d in Search Labs - Android - Google Help",
+                      "text": "Get \"AI Overviews and more\" in search results. On your Android device, open any browser. Make sure you're signed in to your Google..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Search",
+                      "domain": "search.google",
+                      "url": "https://search.google/ways-to-search/ai-overviews/#:~:text=Find%20what%20you're%20looking,English%20searches%20in%20the%20US",
+                      "title": "Google AI Overviews - Search anything, effortlessly",
+                      "text": "Find what you're looking for faster with generative AI. AI Overviews provide a snapshot of key information about a topic or questi..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/3wSmlGO70z0",
+                      "title": "How to use the new generative AI experience in Google Search ...",
+                      "text": "Jun 8, 2023 \u2014 here's how to use the new generative AI experience in Google search first sign up by tapping the labs icon in the lates..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "search.google",
+                      "domain": "search.google",
+                      "url": "https://search.google/ways-to-search/ai-mode/#:~:text=Research%20made%20easy&text=Ask%20your%20question%20all%20in,explore%20more%20on%20the%20web.&text=For%20questions%20where%20you%20want,Google%20AI%20subscribers%20in%20Labs.&text=Ask%20follow-up%20questions%20to,up%20where%20you%20left%20off.&text=AI%20Mode%20connects%20you%20to,a%20wide%20range%20of%20perspectives.",
+                      "title": "Google AI Mode - a new way to search, whatever\u2019s on your mind",
+                      "text": "Research made easy. ... Ask your question all in one go, with all of the details you care about. AI Mode intelligently organizes i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Keyword",
+                      "domain": "blog.google",
+                      "url": "https://blog.google/products/search/google-search-ai-mode-update/#:~:text=Agentic%20capabilities%2C%20to%20do%20the,a%20seamless%20and%20helpful%20experience.",
+                      "title": "AI in Search: Going beyond information to intelligence - Google Blog",
+                      "text": "May 20, 2025 \u2014 Agentic capabilities, to do the work for you Often you come to Search to get something done, and now we're bringing th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Keyword",
+                      "domain": "blog.google",
+                      "url": "https://blog.google/products/search/ai-mode-updates-back-to-school/#:~:text=Get%20real-time%20help%20with,helpful%20links%20on%20the%20web.&text=Search%20Live%20is%20fully%20integrated,the%20AI%20Mode%20Labs%20experiment.",
+                      "title": "New ways to learn and explore with AI Mode in Search - Google Blog",
+                      "text": "Jul 29, 2025 \u2014 Get real-time help with Search Live This week, we're rolling out Search Live with video input, bringing advanced capab..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Important Notes:",
+                  "text": "Incognito Mode: Make sure you are signed in to your Google Account and not using Incognito mode. Availability: AI Overviews and other features may not be available for all searches or in all regions. Turning off AI Overviews: While you can turn off \"AI Overviews and more\" in Search Labs, it won't disable all AI Overviews as they are part of Google Search, according to Google Help.",
+                  "markdown": "- **Incognito Mode:** Make sure you are signed in to your Google Account and not using Incognito mode.[[1]](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.)[[2]](https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.)\n- **Availability:** AI Overviews and other features may not be available for all searches or in all regions.[[1]](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.)[[2]](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Note:%20Turning%20off%20%E2%80%9CAI%20Overviews,can't%20be%20turned%20off.)[[3]](https://support.google.com/websearch/answer/14901683?hl=en#:~:text=AI%20Overviews%20when%20you%20search,where%20AI%20Overviews%20are%20available.)[[4]](https://dreamina.capcut.com/resource/gemini-ai-image-generator#:~:text=Geographic%20restrictions:%20This%20feature%20does%20not%20work,be%20able%20to%20access%20everything%20it%20offers.)\n- **Turning off AI Overviews:** While you can turn off \"AI Overviews and more\" in Search Labs, it won't disable all AI Overviews as they are part of Google Search, [according to Google Help](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DDesktop).[[1]](https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Note:%20Turning%20off%20%E2%80%9CAI%20Overviews,can't%20be%20turned%20off.)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "according to Google Help",
+                      "description": null,
+                      "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DDesktop",
+                      "domain": "support.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.",
+                      "title": "\u201cAI Overviews and more\u201d in Search Labs - Android - Google Help",
+                      "text": "Get \"AI Overviews and more\" in search results. On your Android device, open any browser. Make sure you're signed in to your Google..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.",
+                      "title": "\u201cAI Mode\u201d in Search Labs - Android - Google Help",
+                      "text": "Make sure you're signed in to your Google Account with Incognito mode turned off. Enter a question in the Search bar on Google, an..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Note:%20Turning%20off%20%E2%80%9CAI%20Overviews,can't%20be%20turned%20off.",
+                      "title": "\u201cAI Overviews and more\u201d in Search Labs - Computer - Google Help",
+                      "text": "Note: Turning off \u201cAI Overviews and more\u201d in Search Labs will not disable all AI Overviews in Search. AI Overviews are part of Goo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google Help",
+                      "domain": "support.google.com",
+                      "url": "https://support.google.com/websearch/answer/14901683?hl=en#:~:text=AI%20Overviews%20when%20you%20search,where%20AI%20Overviews%20are%20available.",
+                      "title": "Find information in faster & easier ways with AI Overviews in Google ...",
+                      "text": "AI Overviews when you search with an image or Circle to Search. You may find AI Overviews in your search results when you search w..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Dreamina",
+                      "domain": "dreamina.capcut.com",
+                      "url": "https://dreamina.capcut.com/resource/gemini-ai-image-generator#:~:text=Geographic%20restrictions:%20This%20feature%20does%20not%20work,be%20able%20to%20access%20everything%20it%20offers.",
+                      "title": "Gemini AI Image Generator: Understand Google's Innovative AI",
+                      "text": "Geographic restrictions: This feature does not work in all countries yet. It depends on where you live or the language you are usi..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Help",
+                  "domain": "support.google.com",
+                  "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20%22AI%20Overviews%20and%20more,ask%20your%20question%20out%20loud.",
+                  "title": "\u201cAI Overviews and more\u201d in Search Labs - Android - Google Help",
+                  "text": "Get \"AI Overviews and more\" in search results. On your Android device, open any browser. Make sure you're signed in to your Google..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Help",
+                  "domain": "support.google.com",
+                  "url": "https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DDesktop#:~:text=How%20to%20access%20AI%20Mode,Mode%20on%20the%20home%20screen.",
+                  "title": "Get AI-powered responses with AI Mode in Google Search - Computer",
+                  "text": "How to access AI Mode. You can access AI Mode in three ways: Go to google.com/aimode. Go to www.google.com, enter a question in th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Help",
+                  "domain": "support.google.com",
+                  "url": "https://support.google.com/websearch/answer/13572151?hl=en&co=GENIE.Platform%3DDesktop#:~:text=Note:%20Turning%20off%20%E2%80%9CAI%20Overviews,can't%20be%20turned%20off.",
+                  "title": "\u201cAI Overviews and more\u201d in Search Labs - Computer - Google Help",
+                  "text": "Note: Turning off \u201cAI Overviews and more\u201d in Search Labs will not disable all AI Overviews in Search. AI Overviews are part of Goo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Help",
+                  "domain": "support.google.com",
+                  "url": "https://support.google.com/websearch/answer/14901683?hl=en#:~:text=AI%20Overviews%20when%20you%20search,where%20AI%20Overviews%20are%20available.",
+                  "title": "Find information in faster & easier ways with AI Overviews in Google ...",
+                  "text": "AI Overviews when you search with an image or Circle to Search. You may find AI Overviews in your search results when you search w..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/3wSmlGO70z0",
+                  "title": "How to use the new generative AI experience in Google Search ...",
+                  "text": "Jun 8, 2023 \u2014 here's how to use the new generative AI experience in Google search first sign up by tapping the labs icon in the lates..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "The Keyword",
+                  "domain": "blog.google",
+                  "url": "https://blog.google/products/search/google-search-ai-mode-update/#:~:text=Agentic%20capabilities%2C%20to%20do%20the,a%20seamless%20and%20helpful%20experience.",
+                  "title": "AI in Search: Going beyond information to intelligence - Google Blog",
+                  "text": "May 20, 2025 \u2014 Agentic capabilities, to do the work for you Often you come to Search to get something done, and now we're bringing th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Cloud",
+                  "domain": "cloud.google.com",
+                  "url": "https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search#:~:text=Go%20to%20the%20Create%20App%20page.,-AI%20Applications%20-%20Create&text=Applications%20-%20Create%20App-,Under%20Site%20search%20with%20AI%20mode%2C%20click%20Create.,the%20number%20of%20documents%20imported.",
+                  "title": "Get started with custom search | AI Applications - Google Cloud",
+                  "text": "Go to the Create App page. ... Under Site search with AI mode, click Create. Make sure that Enterprise edition features is turned ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Search",
+                  "domain": "search.google",
+                  "url": "https://search.google/ways-to-search/ai-overviews/#:~:text=Find%20what%20you're%20looking,English%20searches%20in%20the%20US",
+                  "title": "Google AI Overviews - Search anything, effortlessly",
+                  "text": "Find what you're looking for faster with generative AI. AI Overviews provide a snapshot of key information about a topic or questi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "The Keyword",
+                  "domain": "blog.google",
+                  "url": "https://blog.google/products/search/ai-mode-updates-back-to-school/#:~:text=Get%20real-time%20help%20with,helpful%20links%20on%20the%20web.&text=Search%20Live%20is%20fully%20integrated,the%20AI%20Mode%20Labs%20experiment.",
+                  "title": "New ways to learn and explore with AI Mode in Search - Google Blog",
+                  "text": "Jul 29, 2025 \u2014 Get real-time help with Search Live This week, we're rolling out Search Live with video input, bringing advanced capab..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "search.google",
+                  "domain": "search.google",
+                  "url": "https://search.google/ways-to-search/ai-mode/#:~:text=Research%20made%20easy&text=Ask%20your%20question%20all%20in,explore%20more%20on%20the%20web.&text=For%20questions%20where%20you%20want,Google%20AI%20subscribers%20in%20Labs.&text=Ask%20follow-up%20questions%20to,up%20where%20you%20left%20off.&text=AI%20Mode%20connects%20you%20to,a%20wide%20range%20of%20perspectives.",
+                  "title": "Google AI Mode - a new way to search, whatever\u2019s on your mind",
+                  "text": "Research made easy. ... Ask your question all in one go, with all of the details you care about. AI Mode intelligently organizes i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Help",
+                  "domain": "support.google.com",
+                  "url": "https://support.google.com/websearch/answer/16329036?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Get%20started%20with%20Search%20Live%20On%20your,Search%20Live%20anytime%2C%20tap%20the%20Live%20.",
+                  "title": "Search Live: Talk with Search in AI Mode - Android - Google Search Help",
+                  "text": "Get started with Search Live On your Android phone, open the Google app Below the Search bar, tap Live . If you're a first-time us..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Google Help",
+                  "domain": "support.google.com",
+                  "url": "https://support.google.com/websearch/answer/16296315?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Make%20sure%20you're%20signed,to%20google.com/aimode.&text=%2C%20tap%20AI%20Mode%20on%20the%20home%20screen.",
+                  "title": "\u201cAI Mode\u201d in Search Labs - Android - Google Help",
+                  "text": "Make sure you're signed in to your Google Account with Incognito mode turned off. Enter a question in the Search bar on Google, an..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Dreamina",
+                  "domain": "dreamina.capcut.com",
+                  "url": "https://dreamina.capcut.com/resource/gemini-ai-image-generator#:~:text=Geographic%20restrictions:%20This%20feature%20does%20not%20work,be%20able%20to%20access%20everything%20it%20offers.",
+                  "title": "Gemini AI Image Generator: Understand Google's Innovative AI",
+                  "text": "Geographic restrictions: This feature does not work in all countries yet. It depends on where you live or the language you are usi..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "people_also_ask_element",
+          "title": "What is the best AI search engine?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+            {
+              "type": "people_also_ask_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "The best AI search engine depends on individual needs and preferences, but Perplexity AI and Microsoft Copilot are frequently cited as top contenders. Perplexity excels at providing accurate, source-backed answers and is well-regarded for research. Microsoft Copilot, powered by OpenAI's GPT-4, offers a conversational and user-friendly experience. Other strong options include You.com for privacy and customization, Brave Search for privacy-focused searching, and Phind for technical queries.",
+                  "markdown": "The best AI search engine depends on individual needs and preferences, but `Perplexity AI and Microsoft Copilot` are frequently cited as top contenders.Perplexity excels at providing accurate, source-backed answers and is well-regarded for research.Microsoft Copilot, powered by OpenAI's GPT-4, offers a conversational and user-friendly experience.Other strong options include [You.com](https://you.com/) for privacy and customization, [Brave Search](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Brave+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI0AUQAg) for privacy-focused searching, and [Phind](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Phind&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI0AUQAw) for technical queries.[[1]](https://explodingtopics.com/blog/ai-search-engines#:~:text=Microsoft%20Copilot%20is%20an%20AI%20assistant%20that,GPT-4%20models%20to%20deliver%20conversational%20search%20results.)[[2]](https://zapier.com/blog/best-ai-search-engine/#:~:text=Perplexity%20leverages%20a%20combination%20of,on%20obscure%20or%20outdated%20websites.)[[3]](https://www.omnius.so/blog/best-ai-search-engines#:~:text=You.com%20uses%20advanced%20AI,over%20the%20content%20they%20see.)[[4]](https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!)[[5]](https://www.jotform.com/ai/ai-search-engines/)[[6]](https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.)[[7]](https://www.boostability.com/content/best-ai-search-engine/)[[8]](https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration)[[9]](https://itsfoss.com/ai-search-engines/#:~:text=Phind%20is%20an%20intelligent%20search%20engine%20specifically%20focused%20on%20developers.)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "You.com",
+                      "description": null,
+                      "url": "https://you.com/",
+                      "domain": "you.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Brave Search",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Brave+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI0AUQAg",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Phind",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Phind&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI0AUQAw",
+                      "domain": "www.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Exploding Topics",
+                      "domain": "explodingtopics.com",
+                      "url": "https://explodingtopics.com/blog/ai-search-engines#:~:text=Microsoft%20Copilot%20is%20an%20AI%20assistant%20that,GPT-4%20models%20to%20deliver%20conversational%20search%20results.",
+                      "title": "I've Tried the 8 Best AI Search Engines: Here\u2019s What Works",
+                      "text": "Jul 25, 2025 \u2014 Microsoft Copilot is an AI assistant that uses OpenAI's GPT-4 models to deliver conversational search results."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/best-ai-search-engine/#:~:text=Perplexity%20leverages%20a%20combination%20of,on%20obscure%20or%20outdated%20websites.",
+                      "title": "The best AI search engines | Zapier",
+                      "text": "May 23, 2025 \u2014 Perplexity leverages a combination of trust signals from Google, Bing, and its in-house bots that crawl the internet."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OMNIUS",
+                      "domain": "www.omnius.so",
+                      "url": "https://www.omnius.so/blog/best-ai-search-engines#:~:text=You.com%20uses%20advanced%20AI,over%20the%20content%20they%20see.",
+                      "title": "7 Best AI Search Engines To Optimize For [2025 Guide] - OMNIUS",
+                      "text": "Jul 31, 2025 \u2014 You.com uses advanced AI and natural language processing (NLP) to deliver accurate and relevant results. What makes Yo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "marketful.com",
+                      "domain": "marketful.com",
+                      "url": "https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!",
+                      "title": "12 Best AI Search Engines to Try in 2025 - Marketful",
+                      "text": "Which AI search engine provides the most accurate information? Perplexity AI is often praised for its accuracy in answering querie..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jotform",
+                      "domain": "www.jotform.com",
+                      "url": "https://www.jotform.com/ai/ai-search-engines/",
+                      "title": "The best AI search engine? I tested 6 of them | The Jotform Blog",
+                      "text": "Jun 10, 2025 \u2014  Top AI search engines * Microsoft Copilot. * Gemini. * You.com. * ChatGPT. * Perplexity AI. * Brave Search."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "HubSpot Blog",
+                      "domain": "blog.hubspot.com",
+                      "url": "https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.",
+                      "title": "The Best AI Search Engines to Try - HubSpot Blog",
+                      "text": "Apr 25, 2025 \u2014 5. Best for the Privacy-Concerned: Brave Search. Brave Search is the AI-powered engine of choice if privacy is your to..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Boostability",
+                      "domain": "www.boostability.com",
+                      "url": "https://www.boostability.com/content/best-ai-search-engine/",
+                      "title": "AI Search Engine Features You Need to Know - Boostability",
+                      "text": "May 14, 2025"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Medium",
+                      "domain": "medium.com",
+                      "url": "https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration",
+                      "title": "The best AI Search Engines: The 6 Tools I Actually Use Instead of ...",
+                      "text": "Dec 15, 2024 \u2014 4. Perplexity AI: My News Navigator. ... Screenshot of perplexity app. This is good for finding sources and collaborat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "It's FOSS",
+                      "domain": "itsfoss.com",
+                      "url": "https://itsfoss.com/ai-search-engines/#:~:text=Phind%20is%20an%20intelligent%20search%20engine%20specifically%20focused%20on%20developers.",
+                      "title": "10 AI-based Search Engines I Tested Recently",
+                      "text": "Jun 18, 2024 \u2014 Phind is an intelligent search engine specifically focused on developers."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Here's a more detailed look at some of the leading AI search engines:",
+                  "markdown": "Here's a more detailed look at some of the leading AI search engines:",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Perplexity AI:",
+                  "text": "Strengths: Highly accurate results, source citations for answers, strong focus on research, and a user-friendly interface. Features: \"Threads\" for saving and organizing searches, Discover page similar to Google News, and \"Spaces\" for collaboration. Ideal for: In-depth research, academic work, and users who value transparency and source verification.",
+                  "markdown": "- **Strengths:** Highly accurate results, source citations for answers, strong focus on research, and a user-friendly interface.[[1]](https://zapier.com/blog/best-ai-search-engine/#:~:text=Perplexity%20leverages%20a%20combination%20of,on%20obscure%20or%20outdated%20websites.)[[2]](https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!)[[3]](https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration)\n- **Features:** \"Threads\" for saving and organizing searches, Discover page similar to Google News, and \"Spaces\" for collaboration.[[1]](https://www.pcmag.com/picks/the-best-ai-search-engines#:~:text=Perplexity%20is%20comparable%20to%20Microsoft's,Spaces%20with%20others%20for%20collaboration.)[[2]](https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration)\n- **Ideal for:** In-depth research, academic work, and users who value transparency and source verification.[[1]](https://zapier.com/blog/best-ai-search-engine/#:~:text=Perplexity%20leverages%20a%20combination%20of,on%20obscure%20or%20outdated%20websites.)[[2]](https://medium.com/@zilliz_learn/top-5-ai-search-engines-to-know-in-2025-fc030e06959d)[[3]](https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration)[[4]](https://www.educatly.com/blog/594/the-best-ai-platforms-for-academic-research-and-studying#:~:text=It%20%28%20Perplexity%20AI%20%29%20's%20particularly,tool%20that%20is%20perfect%20for%20academic%20success.)[[5]](https://www.youtube.com/watch?v=hKaT6tYWAZg#:~:text=Transparency:%20Cites%20all%20sources%2C%20ensuring%20users%20can,verified%20studies%2C%20avoiding%20speculation%20or%20unverified%20claims.)[[6]](https://yoast.com/ai-tools/#:~:text=One%20of%20Perplexity's%20standout%20features%20is%20its,and%20writers%20who%20need%20trustworthy%20results%20quickly.)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/best-ai-search-engine/#:~:text=Perplexity%20leverages%20a%20combination%20of,on%20obscure%20or%20outdated%20websites.",
+                      "title": "The best AI search engines | Zapier",
+                      "text": "May 23, 2025 \u2014 Perplexity leverages a combination of trust signals from Google, Bing, and its in-house bots that crawl the internet."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "marketful.com",
+                      "domain": "marketful.com",
+                      "url": "https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!",
+                      "title": "12 Best AI Search Engines to Try in 2025 - Marketful",
+                      "text": "Which AI search engine provides the most accurate information? Perplexity AI is often praised for its accuracy in answering querie..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Medium",
+                      "domain": "medium.com",
+                      "url": "https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration",
+                      "title": "The best AI Search Engines: The 6 Tools I Actually Use Instead of ...",
+                      "text": "Dec 15, 2024 \u2014 4. Perplexity AI: My News Navigator. ... Screenshot of perplexity app. This is good for finding sources and collaborat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "PCMag",
+                      "domain": "www.pcmag.com",
+                      "url": "https://www.pcmag.com/picks/the-best-ai-search-engines#:~:text=Perplexity%20is%20comparable%20to%20Microsoft's,Spaces%20with%20others%20for%20collaboration.",
+                      "title": "The Best AI Search Engines We've Tested (2025) - PCMag",
+                      "text": "Perplexity is comparable to Microsoft's Copilot. At one point, it even called one of its features Copilot! Like that tool, Perplex..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Medium\u00a0\u00b7",
+                      "domain": "medium.com",
+                      "url": "https://medium.com/@zilliz_learn/top-5-ai-search-engines-to-know-in-2025-fc030e06959d",
+                      "title": "Top 5 AI Search Engines to Know in 2025 | by Zilliz - Medium",
+                      "text": "Feb 25, 2025 \u2014  Enterprises or individuals can choose their AI search based on the complexity of their queries, their need for privac..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Educatly",
+                      "domain": "www.educatly.com",
+                      "url": "https://www.educatly.com/blog/594/the-best-ai-platforms-for-academic-research-and-studying#:~:text=It%20(%20Perplexity%20AI%20)%20's%20particularly,tool%20that%20is%20perfect%20for%20academic%20success.",
+                      "title": "The Best AI Platforms for Academic Research and Studying",
+                      "text": "Jan 30, 2025 \u2014 It ( Perplexity AI ) 's particularly useful for students who need detailed answers or summaries for assignments and re..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=hKaT6tYWAZg#:~:text=Transparency:%20Cites%20all%20sources%2C%20ensuring%20users%20can,verified%20studies%2C%20avoiding%20speculation%20or%20unverified%20claims.",
+                      "title": "Consensus vs Chat GPT and Google | Research | Literature Search| Basic Science Series",
+                      "text": "Dec 7, 2024 \u2014 Transparency: Cites all sources, ensuring users can verify the information. Focused on Research: Tailored for academic ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Yoast",
+                      "domain": "yoast.com",
+                      "url": "https://yoast.com/ai-tools/#:~:text=One%20of%20Perplexity's%20standout%20features%20is%20its,and%20writers%20who%20need%20trustworthy%20results%20quickly.",
+                      "title": "12 AI tools that will elevate your SEO game",
+                      "text": "Jun 24, 2025 \u2014 One of Perplexity's standout features is its focus on citations and transparency. Each answer is accompanied by linked..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Microsoft Copilot:",
+                  "text": "Strengths: Powered by GPT-4, conversational and user-friendly, strong integration with the Microsoft ecosystem. Features: Can handle a wide range of queries, including real-time information and Microsoft-specific tasks. Ideal for: General use, Microsoft users, and those seeking a conversational AI assistant.",
+                  "markdown": "- **Strengths:** Powered by GPT-4, conversational and user-friendly, strong integration with the Microsoft ecosystem.[[1]](https://explodingtopics.com/blog/ai-search-engines#:~:text=Microsoft%20Copilot%20is%20an%20AI%20assistant%20that,GPT-4%20models%20to%20deliver%20conversational%20search%20results.)[[2]](https://www.getguru.com/reference/ai-search-engine#:~:text=1.,ChatGPT&text=ChatGPT%20is%20not%20technically%20an,to%20interact%20with%20users%20conversationally.&text=ChatGPT%20rivals%20every%20AI%20search,relevant%20answers%20at%20your%20fingertips.&text=ChatGPT%20has%20multilingual%20support%2C%20able,chats%20using%20images%20and%20voice.)[[3]](https://www.jotform.com/ai/ai-search-engines/)[[4]](https://www.lindy.ai/blog/ai-email-assistant#:~:text=Now%2C%20Copilot%20lives%20in%20every%20part%20of,heavily%20invested%20in%20the%20Microsoft%20365%20ecosystem.)[[5]](https://blog.hubspot.com/website/best-ai-code-generator#:~:text=GitHub%20Copilot%20emerged%20as%20the%20front%20runner,intuitive%20suggestions%2C%20language%20versatility%2C%20and%20user-friendly%20interaction.)\n- **Features:** Can handle a wide range of queries, including real-time information and Microsoft-specific tasks.[[1]](https://www.getguru.com/reference/ai-search-engine#:~:text=1.,ChatGPT&text=ChatGPT%20is%20not%20technically%20an,to%20interact%20with%20users%20conversationally.&text=ChatGPT%20rivals%20every%20AI%20search,relevant%20answers%20at%20your%20fingertips.&text=ChatGPT%20has%20multilingual%20support%2C%20able,chats%20using%20images%20and%20voice.)[[2]](https://www.boostability.com/content/best-ai-search-engine/)\n- **Ideal for:** General use, Microsoft users, and those seeking a conversational AI assistant.[[1]](https://www.getguru.com/reference/ai-search-engine#:~:text=1.,ChatGPT&text=ChatGPT%20is%20not%20technically%20an,to%20interact%20with%20users%20conversationally.&text=ChatGPT%20rivals%20every%20AI%20search,relevant%20answers%20at%20your%20fingertips.&text=ChatGPT%20has%20multilingual%20support%2C%20able,chats%20using%20images%20and%20voice.)[[2]](https://www.boostability.com/content/best-ai-search-engine/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Exploding Topics",
+                      "domain": "explodingtopics.com",
+                      "url": "https://explodingtopics.com/blog/ai-search-engines#:~:text=Microsoft%20Copilot%20is%20an%20AI%20assistant%20that,GPT-4%20models%20to%20deliver%20conversational%20search%20results.",
+                      "title": "I've Tried the 8 Best AI Search Engines: Here\u2019s What Works",
+                      "text": "Jul 25, 2025 \u2014 Microsoft Copilot is an AI assistant that uses OpenAI's GPT-4 models to deliver conversational search results."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Get Guru",
+                      "domain": "www.getguru.com",
+                      "url": "https://www.getguru.com/reference/ai-search-engine#:~:text=1.,ChatGPT&text=ChatGPT%20is%20not%20technically%20an,to%20interact%20with%20users%20conversationally.&text=ChatGPT%20rivals%20every%20AI%20search,relevant%20answers%20at%20your%20fingertips.&text=ChatGPT%20has%20multilingual%20support%2C%20able,chats%20using%20images%20and%20voice.",
+                      "title": "Top 10 AI Search Engines: Complete Guide [2025] - Guru",
+                      "text": "Jan 24, 2025 \u2014 1. ChatGPT. ... ChatGPT is not technically an AI search engine, but a generative AI chatbot using a large language mod..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jotform",
+                      "domain": "www.jotform.com",
+                      "url": "https://www.jotform.com/ai/ai-search-engines/",
+                      "title": "The best AI search engine? I tested 6 of them | The Jotform Blog",
+                      "text": "Jun 10, 2025 \u2014  Top AI search engines * Microsoft Copilot. * Gemini. * You.com. * ChatGPT. * Perplexity AI. * Brave Search."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Lindy.ai",
+                      "domain": "www.lindy.ai",
+                      "url": "https://www.lindy.ai/blog/ai-email-assistant#:~:text=Now%2C%20Copilot%20lives%20in%20every%20part%20of,heavily%20invested%20in%20the%20Microsoft%20365%20ecosystem.",
+                      "title": "10 Best AI Email Assistants: Tested & Reviewed",
+                      "text": "May 7, 2025 \u2014 Now, Copilot lives in every part of Microsoft's ecosystem, including Outlook. And it's great to see how well-integrated..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "HubSpot Blog",
+                      "domain": "blog.hubspot.com",
+                      "url": "https://blog.hubspot.com/website/best-ai-code-generator#:~:text=GitHub%20Copilot%20emerged%20as%20the%20front%20runner,intuitive%20suggestions%2C%20language%20versatility%2C%20and%20user-friendly%20interaction.",
+                      "title": "Navigating the Code Jungle: Which AI Tool is Best at Generating Code?",
+                      "text": "Oct 17, 2023 \u2014 GitHub Copilot emerged as the front runner in our evaluation, marking itself as a balanced combination of intuitive su..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Boostability",
+                      "domain": "www.boostability.com",
+                      "url": "https://www.boostability.com/content/best-ai-search-engine/",
+                      "title": "AI Search Engine Features You Need to Know - Boostability",
+                      "text": "May 14, 2025"
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "You.com :",
+                  "text": "Strengths: Privacy-focused, customizable search experience, and a clean, ad-free interface. Features: User-friendly interface with options to customize search results and prioritize different sources. Ideal for: Users who value privacy and want more control over their search results.",
+                  "markdown": "- **Strengths:** Privacy-focused, customizable search experience, and a clean, ad-free interface.\n- **Features:** User-friendly interface with options to customize search results and prioritize different sources.\n- **Ideal for:** Users who value privacy and want more control over their search results.[[1]](https://www.omnius.so/blog/best-ai-search-engines#:~:text=You.com%20uses%20advanced%20AI,over%20the%20content%20they%20see.)[[2]](https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "OMNIUS",
+                      "domain": "www.omnius.so",
+                      "url": "https://www.omnius.so/blog/best-ai-search-engines#:~:text=You.com%20uses%20advanced%20AI,over%20the%20content%20they%20see.",
+                      "title": "7 Best AI Search Engines To Optimize For [2025 Guide] - OMNIUS",
+                      "text": "Jul 31, 2025 \u2014 You.com uses advanced AI and natural language processing (NLP) to deliver accurate and relevant results. What makes Yo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "HubSpot Blog",
+                      "domain": "blog.hubspot.com",
+                      "url": "https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.",
+                      "title": "The Best AI Search Engines to Try - HubSpot Blog",
+                      "text": "Apr 25, 2025 \u2014 5. Best for the Privacy-Concerned: Brave Search. Brave Search is the AI-powered engine of choice if privacy is your to..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Brave Search:",
+                  "text": "Strengths: Strong focus on privacy, doesn't track users or their queries. Features: AI-powered search engine with a clean interface similar to Google. Ideal for: Users who prioritize privacy and want a familiar search experience.",
+                  "markdown": "- **Strengths:** Strong focus on privacy, doesn't track users or their queries.\n- **Features:** AI-powered search engine with a clean interface similar to Google.\n- **Ideal for:** Users who prioritize privacy and want a familiar search experience.[[1]](https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "HubSpot Blog",
+                      "domain": "blog.hubspot.com",
+                      "url": "https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.",
+                      "title": "The Best AI Search Engines to Try - HubSpot Blog",
+                      "text": "Apr 25, 2025 \u2014 5. Best for the Privacy-Concerned: Brave Search. Brave Search is the AI-powered engine of choice if privacy is your to..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Phind:",
+                  "text": "Strengths: Specifically designed for developers and technical queries. Features: Focuses on providing technical information and code solutions. Ideal for: Software developers, programmers, and anyone needing technical information.",
+                  "markdown": "- **Strengths:** Specifically designed for developers and technical queries.\n- **Features:** Focuses on providing technical information and code solutions.\n- **Ideal for:** Software developers, programmers, and anyone needing technical information.[[1]](https://www.boostability.com/content/best-ai-search-engine/)[[2]](https://levelup.gitconnected.com/phind-the-best-ai-search-engine-for-developers-d84bad429a32#:~:text=This%20search%20engine%20uses%20AI%20to%20streamline,Phind%20is%20excellent%20for%20finding%20technical%20information.)[[3]](https://www.c-sharpcorner.com/article/10-best-ai-search-engines-in-2024-free-paid/#:~:text=Our%20Take:%20Phind%20is%20an%20excellent%20option,engine%2C%20providing%20a%20developer-centric%20alternative%20to%20ChatGPT.)[[4]](https://felo.ai/blog/best-ai-answer-engines-2025/)[[5]](https://itsfoss.com/ai-search-engines/#:~:text=Phind%20is%20an%20intelligent%20search%20engine%20specifically%20focused%20on%20developers.)[[6]](https://canopymanagement.com/12-non-conventional-search-engines-you-need-to-know/#:~:text=12.%20Phind%20A%20Developer's%20Dream%20Search%20Engine,that%20simplifies%20the%20debugging%20and%20coding%20process.)[[7]](https://www.nature.com/articles/d41586-023-03023-4#:~:text=Phind%20is%20different%20from%20its%20competitors:%20it,works%20well%20as%20a%20general%20search%20engine.)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Boostability",
+                      "domain": "www.boostability.com",
+                      "url": "https://www.boostability.com/content/best-ai-search-engine/",
+                      "title": "AI Search Engine Features You Need to Know - Boostability",
+                      "text": "May 14, 2025"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Level Up Coding",
+                      "domain": "levelup.gitconnected.com",
+                      "url": "https://levelup.gitconnected.com/phind-the-best-ai-search-engine-for-developers-d84bad429a32#:~:text=This%20search%20engine%20uses%20AI%20to%20streamline,Phind%20is%20excellent%20for%20finding%20technical%20information.",
+                      "title": "Phind: The Best AI Search Engine for Developers",
+                      "text": "Apr 18, 2023 \u2014 This search engine uses AI to streamline searches, making it easier for developers to find answers. Phind is excellent..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "C# Corner",
+                      "domain": "www.c-sharpcorner.com",
+                      "url": "https://www.c-sharpcorner.com/article/10-best-ai-search-engines-in-2024-free-paid/#:~:text=Our%20Take:%20Phind%20is%20an%20excellent%20option,engine%2C%20providing%20a%20developer-centric%20alternative%20to%20ChatGPT.",
+                      "title": "10 Best AI Search Engines in 2024 (Free & Paid)",
+                      "text": "Our Take: Phind is an excellent option for developers and users looking for a faster, technical-question-focused search engine, pr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Felo",
+                      "domain": "felo.ai",
+                      "url": "https://felo.ai/blog/best-ai-answer-engines-2025/",
+                      "title": "The Best AI Answer Engines in 2025",
+                      "text": "Dec 30, 2024 \u2014 8. Phind.com: The Developer's AI Engine Designed specifically for developers, Phind.com emphasizes technical solutions..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "It's FOSS",
+                      "domain": "itsfoss.com",
+                      "url": "https://itsfoss.com/ai-search-engines/#:~:text=Phind%20is%20an%20intelligent%20search%20engine%20specifically%20focused%20on%20developers.",
+                      "title": "10 AI-based Search Engines I Tested Recently",
+                      "text": "Jun 18, 2024 \u2014 Phind is an intelligent search engine specifically focused on developers."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Canopy Management",
+                      "domain": "canopymanagement.com",
+                      "url": "https://canopymanagement.com/12-non-conventional-search-engines-you-need-to-know/#:~:text=12.%20Phind%20A%20Developer's%20Dream%20Search%20Engine,that%20simplifies%20the%20debugging%20and%20coding%20process.",
+                      "title": "12 Non-Conventional Search Engines You Need to Know Right Now",
+                      "text": "Dec 12, 2024 \u2014 12. Phind A Developer's Dream Search Engine \u2013 Phind is a specialized search engine tailored for developers. For develo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Nature",
+                      "domain": "www.nature.com",
+                      "url": "https://www.nature.com/articles/d41586-023-03023-4#:~:text=Phind%20is%20different%20from%20its%20competitors:%20it,works%20well%20as%20a%20general%20search%20engine.",
+                      "title": "What\u2019s the best chatbot for me? Researchers put LLMs through their paces",
+                      "text": "Sep 27, 2023 \u2014 Phind is different from its competitors: it was designed to answer software-development questions and excels at that t..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Other notable AI search engines:",
+                  "text": "Gemini (Google) : Strong in providing diverse information across multiple formats. Andi Search : Aims to act as both a chatbot and a search engine. Bing Search : Offers a balanced approach with both AI and traditional search capabilities. Arc Search : Good for individual content creators and students who prioritize speed and privacy.",
+                  "markdown": "- **[Gemini (Google)](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Gemini+%28Google%29&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIlAQQAQ):** Strong in providing diverse information across multiple formats.[[1]](https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!)\n- **[Andi Search](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Andi+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI1QQQAQ):** Aims to act as both a chatbot and a search engine.[[1]](https://www.boostability.com/content/best-ai-search-engine/)[[2]](https://www.c-sharpcorner.com/article/10-best-ai-search-engines-in-2024-free-paid/#:~:text=Andi%20offers%20a%20new%20approach%20to%20AI-powered,a%20search%20chatbot%20and%20a%20search%20engine.)\n- **[Bing Search](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Bing+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUItgQQAQ):** Offers a balanced approach with both AI and traditional search capabilities.[[1]](https://www.boostability.com/content/best-ai-search-engine/)[[2]](https://medium.com/@zilliz_learn/top-5-ai-search-engines-to-know-in-2025-fc030e06959d)\n- **[Arc Search](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Arc+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIogQQAQ):** Good for individual content creators and students who prioritize speed and privacy.[[1]](https://medium.com/@zilliz_learn/top-5-ai-search-engines-to-know-in-2025-fc030e06959d)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Gemini (Google)",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Gemini+(Google)&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIlAQQAQ",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Andi Search",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Andi+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI1QQQAQ",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Bing Search",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Bing+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUItgQQAQ",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Arc Search",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Arc+Search&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIogQQAQ",
+                      "domain": "www.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Medium\u00a0\u00b7",
+                      "domain": "medium.com",
+                      "url": "https://medium.com/@zilliz_learn/top-5-ai-search-engines-to-know-in-2025-fc030e06959d",
+                      "title": "Top 5 AI Search Engines to Know in 2025 | by Zilliz - Medium",
+                      "text": "Feb 25, 2025 \u2014  Enterprises or individuals can choose their AI search based on the complexity of their queries, their need for privac..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "marketful.com",
+                      "domain": "marketful.com",
+                      "url": "https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!",
+                      "title": "12 Best AI Search Engines to Try in 2025 - Marketful",
+                      "text": "Which AI search engine provides the most accurate information? Perplexity AI is often praised for its accuracy in answering querie..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Boostability",
+                      "domain": "www.boostability.com",
+                      "url": "https://www.boostability.com/content/best-ai-search-engine/",
+                      "title": "AI Search Engine Features You Need to Know - Boostability",
+                      "text": "May 14, 2025"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "C# Corner",
+                      "domain": "www.c-sharpcorner.com",
+                      "url": "https://www.c-sharpcorner.com/article/10-best-ai-search-engines-in-2024-free-paid/#:~:text=Andi%20offers%20a%20new%20approach%20to%20AI-powered,a%20search%20chatbot%20and%20a%20search%20engine.",
+                      "title": "10 Best AI Search Engines in 2024 (Free & Paid)",
+                      "text": "Andi offers a new approach to AI-powered search engines, acting as both a search chatbot and a search engine."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "PCMag",
+                  "domain": "www.pcmag.com",
+                  "url": "https://www.pcmag.com/picks/the-best-ai-search-engines#:~:text=Perplexity%20is%20comparable%20to%20Microsoft's,Spaces%20with%20others%20for%20collaboration.",
+                  "title": "The Best AI Search Engines We've Tested (2025) - PCMag",
+                  "text": "Perplexity is comparable to Microsoft's Copilot. At one point, it even called one of its features Copilot! Like that tool, Perplex..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Exploding Topics",
+                  "domain": "explodingtopics.com",
+                  "url": "https://explodingtopics.com/blog/ai-search-engines#:~:text=Microsoft%20Copilot%20is%20an%20AI%20assistant%20that,GPT-4%20models%20to%20deliver%20conversational%20search%20results.",
+                  "title": "I've Tried the 8 Best AI Search Engines: Here\u2019s What Works",
+                  "text": "Jul 25, 2025 \u2014 Microsoft Copilot is an AI assistant that uses OpenAI's GPT-4 models to deliver conversational search results."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Zapier",
+                  "domain": "zapier.com",
+                  "url": "https://zapier.com/blog/best-ai-search-engine/#:~:text=Perplexity%20leverages%20a%20combination%20of,on%20obscure%20or%20outdated%20websites.",
+                  "title": "The best AI search engines | Zapier",
+                  "text": "May 23, 2025 \u2014 Perplexity leverages a combination of trust signals from Google, Bing, and its in-house bots that crawl the internet."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OMNIUS",
+                  "domain": "www.omnius.so",
+                  "url": "https://www.omnius.so/blog/best-ai-search-engines#:~:text=You.com%20uses%20advanced%20AI,over%20the%20content%20they%20see.",
+                  "title": "7 Best AI Search Engines To Optimize For [2025 Guide] - OMNIUS",
+                  "text": "Jul 31, 2025 \u2014 You.com uses advanced AI and natural language processing (NLP) to deliver accurate and relevant results. What makes Yo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Get Guru",
+                  "domain": "www.getguru.com",
+                  "url": "https://www.getguru.com/reference/ai-search-engine#:~:text=1.,ChatGPT&text=ChatGPT%20is%20not%20technically%20an,to%20interact%20with%20users%20conversationally.&text=ChatGPT%20rivals%20every%20AI%20search,relevant%20answers%20at%20your%20fingertips.&text=ChatGPT%20has%20multilingual%20support%2C%20able,chats%20using%20images%20and%20voice.",
+                  "title": "Top 10 AI Search Engines: Complete Guide [2025] - Guru",
+                  "text": "Jan 24, 2025 \u2014 1. ChatGPT. ... ChatGPT is not technically an AI search engine, but a generative AI chatbot using a large language mod..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "marketful.com",
+                  "domain": "marketful.com",
+                  "url": "https://marketful.com/blog/best-ai-search-engines/#:~:text=Which%20AI%20search%20engine%20provides,enhance%20your%20search%20experience%20today!",
+                  "title": "12 Best AI Search Engines to Try in 2025 - Marketful",
+                  "text": "Which AI search engine provides the most accurate information? Perplexity AI is often praised for its accuracy in answering querie..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Jotform",
+                  "domain": "www.jotform.com",
+                  "url": "https://www.jotform.com/ai/ai-search-engines/",
+                  "title": "The best AI search engine? I tested 6 of them | The Jotform Blog",
+                  "text": "Jun 10, 2025 \u2014  Top AI search engines * Microsoft Copilot. * Gemini. * You.com. * ChatGPT. * Perplexity AI. * Brave Search."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "HubSpot Blog",
+                  "domain": "blog.hubspot.com",
+                  "url": "https://blog.hubspot.com/marketing/ai-search-engines#:~:text=5.,on%20par%20with%20the%20rest.&text=Brave%20Search%20also%20looks%20a,for%20AI%20beginners%20to%20start.",
+                  "title": "The Best AI Search Engines to Try - HubSpot Blog",
+                  "text": "Apr 25, 2025 \u2014 5. Best for the Privacy-Concerned: Brave Search. Brave Search is the AI-powered engine of choice if privacy is your to..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Boostability",
+                  "domain": "www.boostability.com",
+                  "url": "https://www.boostability.com/content/best-ai-search-engine/",
+                  "title": "AI Search Engine Features You Need to Know - Boostability",
+                  "text": "May 14, 2025"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Medium\u00a0\u00b7",
+                  "domain": "medium.com",
+                  "url": "https://medium.com/@zilliz_learn/top-5-ai-search-engines-to-know-in-2025-fc030e06959d",
+                  "title": "Top 5 AI Search Engines to Know in 2025 | by Zilliz - Medium",
+                  "text": "Feb 25, 2025 \u2014  Enterprises or individuals can choose their AI search based on the complexity of their queries, their need for privac..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Medium",
+                  "domain": "medium.com",
+                  "url": "https://medium.com/the-abcs-of-ai/the-best-ai-search-engines-6-google-alternatives-i-actually-use-daily-2024-ultimate-guide-ab61e3df9fa1#:~:text=4.,Perplexity%20AI:%20My%20News%20Navigator&text=Screenshot%20of%20perplexity%20app.,browser%20extensions%20for%20seamless%20integration",
+                  "title": "The best AI Search Engines: The 6 Tools I Actually Use Instead of ...",
+                  "text": "Dec 15, 2024 \u2014 4. Perplexity AI: My News Navigator. ... Screenshot of perplexity app. This is good for finding sources and collaborat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Level Up Coding",
+                  "domain": "levelup.gitconnected.com",
+                  "url": "https://levelup.gitconnected.com/phind-the-best-ai-search-engine-for-developers-d84bad429a32#:~:text=This%20search%20engine%20uses%20AI%20to%20streamline,Phind%20is%20excellent%20for%20finding%20technical%20information.",
+                  "title": "Phind: The Best AI Search Engine for Developers",
+                  "text": "Apr 18, 2023 \u2014 This search engine uses AI to streamline searches, making it easier for developers to find answers. Phind is excellent..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "C# Corner",
+                  "domain": "www.c-sharpcorner.com",
+                  "url": "https://www.c-sharpcorner.com/article/10-best-ai-search-engines-in-2024-free-paid/#:~:text=Our%20Take:%20Phind%20is%20an%20excellent%20option,engine%2C%20providing%20a%20developer-centric%20alternative%20to%20ChatGPT.",
+                  "title": "10 Best AI Search Engines in 2024 (Free & Paid)",
+                  "text": "Our Take: Phind is an excellent option for developers and users looking for a faster, technical-question-focused search engine, pr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "C# Corner",
+                  "domain": "www.c-sharpcorner.com",
+                  "url": "https://www.c-sharpcorner.com/article/10-best-ai-search-engines-in-2024-free-paid/#:~:text=Andi%20offers%20a%20new%20approach%20to%20AI-powered,a%20search%20chatbot%20and%20a%20search%20engine.",
+                  "title": "10 Best AI Search Engines in 2024 (Free & Paid)",
+                  "text": "Andi offers a new approach to AI-powered search engines, acting as both a search chatbot and a search engine."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Felo",
+                  "domain": "felo.ai",
+                  "url": "https://felo.ai/blog/best-ai-answer-engines-2025/",
+                  "title": "The Best AI Answer Engines in 2025",
+                  "text": "Dec 30, 2024 \u2014 8. Phind.com: The Developer's AI Engine Designed specifically for developers, Phind.com emphasizes technical solutions..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "It's FOSS",
+                  "domain": "itsfoss.com",
+                  "url": "https://itsfoss.com/ai-search-engines/#:~:text=Phind%20is%20an%20intelligent%20search%20engine%20specifically%20focused%20on%20developers.",
+                  "title": "10 AI-based Search Engines I Tested Recently",
+                  "text": "Jun 18, 2024 \u2014 Phind is an intelligent search engine specifically focused on developers."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Canopy Management",
+                  "domain": "canopymanagement.com",
+                  "url": "https://canopymanagement.com/12-non-conventional-search-engines-you-need-to-know/#:~:text=12.%20Phind%20A%20Developer's%20Dream%20Search%20Engine,that%20simplifies%20the%20debugging%20and%20coding%20process.",
+                  "title": "12 Non-Conventional Search Engines You Need to Know Right Now",
+                  "text": "Dec 12, 2024 \u2014 12. Phind A Developer's Dream Search Engine \u2013 Phind is a specialized search engine tailored for developers. For develo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Educatly",
+                  "domain": "www.educatly.com",
+                  "url": "https://www.educatly.com/blog/594/the-best-ai-platforms-for-academic-research-and-studying#:~:text=It%20(%20Perplexity%20AI%20)%20's%20particularly,tool%20that%20is%20perfect%20for%20academic%20success.",
+                  "title": "The Best AI Platforms for Academic Research and Studying",
+                  "text": "Jan 30, 2025 \u2014 It ( Perplexity AI ) 's particularly useful for students who need detailed answers or summaries for assignments and re..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Lindy.ai",
+                  "domain": "www.lindy.ai",
+                  "url": "https://www.lindy.ai/blog/ai-email-assistant#:~:text=Now%2C%20Copilot%20lives%20in%20every%20part%20of,heavily%20invested%20in%20the%20Microsoft%20365%20ecosystem.",
+                  "title": "10 Best AI Email Assistants: Tested & Reviewed",
+                  "text": "May 7, 2025 \u2014 Now, Copilot lives in every part of Microsoft's ecosystem, including Outlook. And it's great to see how well-integrated..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=hKaT6tYWAZg#:~:text=Transparency:%20Cites%20all%20sources%2C%20ensuring%20users%20can,verified%20studies%2C%20avoiding%20speculation%20or%20unverified%20claims.",
+                  "title": "Consensus vs Chat GPT and Google | Research | Literature Search| Basic Science Series",
+                  "text": "Dec 7, 2024 \u2014 Transparency: Cites all sources, ensuring users can verify the information. Focused on Research: Tailored for academic ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Nature",
+                  "domain": "www.nature.com",
+                  "url": "https://www.nature.com/articles/d41586-023-03023-4#:~:text=Phind%20is%20different%20from%20its%20competitors:%20it,works%20well%20as%20a%20general%20search%20engine.",
+                  "title": "What\u2019s the best chatbot for me? Researchers put LLMs through their paces",
+                  "text": "Sep 27, 2023 \u2014 Phind is different from its competitors: it was designed to answer software-development questions and excels at that t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Yoast",
+                  "domain": "yoast.com",
+                  "url": "https://yoast.com/ai-tools/#:~:text=One%20of%20Perplexity's%20standout%20features%20is%20its,and%20writers%20who%20need%20trustworthy%20results%20quickly.",
+                  "title": "12 AI tools that will elevate your SEO game",
+                  "text": "Jun 24, 2025 \u2014 One of Perplexity's standout features is its focus on citations and transparency. Each answer is accompanied by linked..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "HubSpot Blog",
+                  "domain": "blog.hubspot.com",
+                  "url": "https://blog.hubspot.com/website/best-ai-code-generator#:~:text=GitHub%20Copilot%20emerged%20as%20the%20front%20runner,intuitive%20suggestions%2C%20language%20versatility%2C%20and%20user-friendly%20interaction.",
+                  "title": "Navigating the Code Jungle: Which AI Tool is Best at Generating Code?",
+                  "text": "Oct 17, 2023 \u2014 GitHub Copilot emerged as the front runner in our evaluation, marking itself as a balanced combination of intuitive su..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "people_also_ask_element",
+          "title": "How to get the Snapchat AI?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+            {
+              "type": "people_also_ask_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "To access the AI on Snapchat, first, ensure your app is updated. Then, navigate to the chat screen by swiping right from the camera screen. My AI should appear at the top of your chat list. Tapping on it will open the chat interface, where you can begin interacting with the AI.",
+                  "markdown": "To access the AI on Snapchat, first, ensure your app is updated.Then, `navigate to the chat screen by swiping right from the camera screen`.My AI should appear at the top of your chat list.Tapping on it will open the chat interface, where you can begin interacting with the AI.[[1]](https://www.youtube.com/watch?v=jTU0OeNBx7s)[[2]](https://help.snapchat.com/hc/en-us/articles/13387211401620-How-do-I-access-My-AI-on-Snapchat#:~:text=You%20can%20find%20My%20AI,Was%20this%20article%20helpful?)[[3]](https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37)[[4]](https://m.youtube.com/watch?v=-YdmPCx3QU4&pp=0gcJCdgAo7VqN5tD)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=jTU0OeNBx7s",
+                      "title": "How To Get My AI On Snapchat",
+                      "text": "May 5, 2023 \u2014 snapchat just released an AI chatbot. it's called My AI. and I wanted to show you exactly how to get it in this video h..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Snapchat Support",
+                      "domain": "help.snapchat.com",
+                      "url": "https://help.snapchat.com/hc/en-us/articles/13387211401620-How-do-I-access-My-AI-on-Snapchat#:~:text=You%20can%20find%20My%20AI,Was%20this%20article%20helpful?",
+                      "title": "How do I access My AI on Snapchat?",
+                      "text": "You can find My AI on your Chat screen. Swipe right from the Camera screen to open the Chat screen and try it out \ud83d\udc49 Please Note: M..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37",
+                      "title": "How To Get My AI On Snapchat",
+                      "text": "Jun 7, 2023 \u2014 here's a step-by-step guide on how to get My AI on Snapchat. and make the most of its capabilities. first ensure that y..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "m.youtube.com",
+                      "url": "https://m.youtube.com/watch?v=-YdmPCx3QU4&pp=0gcJCdgAo7VqN5tD",
+                      "title": "How To Access and Customize Snapchat My AI - Full Tutorial and ...",
+                      "text": "May 16, 2023 \u2014 hello everyone and welcome to this video tutorial today I'm going to show you how to access. and use my AI within Snap..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "This video shows how to find My AI and start chatting with it:",
+                  "markdown": "This video shows how to find My AI and start chatting with it:",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_video_element",
+                  "position": "left",
+                  "title": "Think Tutorial",
+                  "snippet": "Start time is 0 seconds. Segment duration is 1 minute",
+                  "url": "https://m.youtube.com/watch?v=-YdmPCx3QU4&pp=0gcJCdgAo7VqN5tD&t=0",
+                  "domain": "m.youtube.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/08091345-1066-0139-0000-a702f64fb9ab:1",
+                  "source": "YouTube",
+                  "date": "May 16, 2023",
+                  "timestamp": "2023-05-16 00:00:00 +00:00"
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Here's a more detailed breakdown:",
+                  "text": "1.  Update Snapchat: Make sure you have the latest version of the Snapchat app installed on your device. 2.  Open the Chat Screen: Swipe right from the Camera screen to access the Chat screen. 3.  Locate My AI: My AI is located at the top of your chat list, identified by a friendly virtual assistant icon. 4.  Start a Conversation: Tap on the My AI icon to open the chat window and begin interacting with the AI.",
+                  "markdown": "[**1.** **Update Snapchat:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Update+Snapchat&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI9gMQAw) Make sure you have the latest version of the Snapchat app installed on your device.[[1]](https://m.youtube.com/watch?v=-YdmPCx3QU4&pp=0gcJCdgAo7VqN5tD)[[2]](https://www.wikihow.com/Get-Ai-Snapchat#:~:text=Things%20You%20Should%20Know%20*%20Snapchat's%20AI,chat%20list%2C%20try%20updating%20the%20Snapchat%20app.)\n[**2.** **Open the Chat Screen:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Open+the+Chat+Screen&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIwAQQAw) Swipe right from the Camera screen to access the Chat screen.[[1]](https://help.snapchat.com/hc/en-us/articles/13387211401620-How-do-I-access-My-AI-on-Snapchat#:~:text=You%20can%20find%20My%20AI,Was%20this%20article%20helpful?)[[2]](https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37)\n[**3.** **Locate My AI:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Locate+My+AI&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUInwQQAw) My AI is located at the top of your chat list, identified by a friendly virtual assistant icon.[[1]](https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37)\n[**4.** **Start a Conversation:** ](https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Start+a+Conversation&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIhwQQAw) Tap on the My AI icon to open the chat window and begin interacting with the AI.[[1]](https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "1.  Update Snapchat:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Update+Snapchat&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUI9gMQAw",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "2.  Open the Chat Screen:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Open+the+Chat+Screen&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIwAQQAw",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "3.  Locate My AI:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Locate+My+AI&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUInwQQAw",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "4.  Start a Conversation:",
+                      "description": null,
+                      "url": "https://www.google.com/search?num=100&sca_esv=b6b9cc2a75ab82a9&hl=en&gl=US&glp=1&q=Start+a+Conversation&sa=X&ved=2ahUKEwi11cyXxv2OAxXv0TQHHWtBKDIQxccNegUIhwQQAw",
+                      "domain": "www.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "m.youtube.com",
+                      "url": "https://m.youtube.com/watch?v=-YdmPCx3QU4&pp=0gcJCdgAo7VqN5tD",
+                      "title": "How To Access and Customize Snapchat My AI - Full Tutorial and ...",
+                      "text": "May 16, 2023 \u2014 hello everyone and welcome to this video tutorial today I'm going to show you how to access. and use my AI within Snap..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "wikiHow",
+                      "domain": "www.wikihow.com",
+                      "url": "https://www.wikihow.com/Get-Ai-Snapchat#:~:text=Things%20You%20Should%20Know%20*%20Snapchat's%20AI,chat%20list%2C%20try%20updating%20the%20Snapchat%20app.",
+                      "title": "How to Get My AI on Snapchat: Easy Guide to the AI Chatbot - wikiHow",
+                      "text": "May 17, 2025 \u2014  Things You Should Know * Snapchat's AI chatbot is now free for all users. * To find My AI, swipe right on the Camera ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Snapchat Support",
+                      "domain": "help.snapchat.com",
+                      "url": "https://help.snapchat.com/hc/en-us/articles/13387211401620-How-do-I-access-My-AI-on-Snapchat#:~:text=You%20can%20find%20My%20AI,Was%20this%20article%20helpful?",
+                      "title": "How do I access My AI on Snapchat?",
+                      "text": "You can find My AI on your Chat screen. Swipe right from the Camera screen to open the Chat screen and try it out \ud83d\udc49 Please Note: M..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37",
+                      "title": "How To Get My AI On Snapchat",
+                      "text": "Jun 7, 2023 \u2014 here's a step-by-step guide on how to get My AI on Snapchat. and make the most of its capabilities. first ensure that y..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can also watch this video to learn how to customize My AI's avatar after you've found it:",
+                  "markdown": "You can also watch this video to learn how to customize My AI's avatar after you've found it:",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_video_element",
+                  "position": "left",
+                  "title": "How-To Authority",
+                  "snippet": "Start time is 0 seconds. Segment duration is 41 seconds",
+                  "url": "https://www.youtube.com/shorts/Ph-flkx6pVI",
+                  "domain": "www.youtube.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/08091345-1066-0139-0000-a702f64fb9ab:2",
+                  "source": "YouTube",
+                  "date": "Sep 24, 2024",
+                  "timestamp": "2024-09-24 00:00:00 +00:00"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=jTU0OeNBx7s",
+                  "title": "How To Get My AI On Snapchat",
+                  "text": "May 5, 2023 \u2014 snapchat just released an AI chatbot. it's called My AI. and I wanted to show you exactly how to get it in this video h..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Snapchat Support",
+                  "domain": "help.snapchat.com",
+                  "url": "https://help.snapchat.com/hc/en-us/articles/13387211401620-How-do-I-access-My-AI-on-Snapchat#:~:text=You%20can%20find%20My%20AI,Was%20this%20article%20helpful?",
+                  "title": "How do I access My AI on Snapchat?",
+                  "text": "You can find My AI on your Chat screen. Swipe right from the Camera screen to open the Chat screen and try it out \ud83d\udc49 Please Note: M..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=01QlhdX_Bv0&t=37",
+                  "title": "How To Get My AI On Snapchat",
+                  "text": "Jun 7, 2023 \u2014 here's a step-by-step guide on how to get My AI on Snapchat. and make the most of its capabilities. first ensure that y..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "m.youtube.com",
+                  "url": "https://m.youtube.com/watch?v=-YdmPCx3QU4&pp=0gcJCdgAo7VqN5tD",
+                  "title": "How To Access and Customize Snapchat My AI - Full Tutorial and ...",
+                  "text": "May 16, 2023 \u2014 hello everyone and welcome to this video tutorial today I'm going to show you how to access. and use my AI within Snap..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "wikiHow",
+                  "domain": "www.wikihow.com",
+                  "url": "https://www.wikihow.com/Get-Ai-Snapchat#:~:text=Things%20You%20Should%20Know%20*%20Snapchat's%20AI,chat%20list%2C%20try%20updating%20the%20Snapchat%20app.",
+                  "title": "How to Get My AI on Snapchat: Easy Guide to the AI Chatbot - wikiHow",
+                  "text": "May 17, 2025 \u2014  Things You Should Know * Snapchat's AI chatbot is now free for all users. * To find My AI, swipe right on the Camera ..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 7,
+      "rank_absolute": 8,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+      "domain": "felo.ai",
+      "title": "Felo AI Search\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+      "url": "https://felo.ai/search",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://felo.ai \u203a search",
+      "website_name": "Felo",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Ask AI anything with Felo, the free multilingual answer engine. Get real-time answers & create AI presentations, AI mind maps & posters.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Felo, the free multilingual answer engine"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 8,
+      "rank_absolute": 9,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+      "domain": "learn.microsoft.com",
+      "title": "What's Azure AI Search?",
+      "url": "https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://learn.microsoft.com \u203a ... \u203a Azure AI Search",
+      "website_name": "Microsoft Learn",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Azure AI Search is a scalable search infrastructure that indexes heterogeneous content and enables retrieval through APIs, applications, and AI agents.",
+      "pre_snippet": "07/18/2025 00:00:00",
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Azure AI Search"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": "2025-07-18 00:00:00 +00:00",
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 9,
+      "rank_absolute": 10,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+      "domain": "cloud.google.com",
+      "title": "Search from Vertex AI | Google quality search/RAG for ...",
+      "url": "https://cloud.google.com/enterprise-search",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://cloud.google.com \u203a enterprise-search",
+      "website_name": "Google Cloud",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Vertex AI Search helps developers build secure, Google-quality search experiences for websites, intranet and RAG systems for generative AI agents and apps.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Vertex AI Search"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    }
+  ]
+}

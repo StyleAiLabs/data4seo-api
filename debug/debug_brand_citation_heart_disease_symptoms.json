@@ -1,0 +1,495 @@
+[
+  {
+    "type": "ai_overview",
+    "rank_group": 1,
+    "rank_absolute": 1,
+    "position": "left",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "asynchronous_ai_overview": false,
+    "markdown": "![Heart Disease: Signs, Symptoms, and Complications](data:image/png;base64,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)\nHeart disease symptoms can vary, but common indicators include `chest pain or discomfort, shortness of breath, and fatigue`.Other symptoms may include pain or discomfort in the arms, jaw, back, neck, or stomach, as well as dizziness, lightheadedness, and swelling in the feet or ankles.[[1]](https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease)[[2]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[3]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[4]](https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.)[[5]](https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.)\n\nElaboration:[[1]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)\n\n1. Chest Pain or Discomfort: This is a well-known symptom, but it can manifest differently for individuals.It may feel like pressure, squeezing, or a sharp pain in the chest, and can radiate to other areas like the arms, neck, jaw, or back.[[1]](https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease)[[2]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)[[3]](https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.)[[4]](https://www.nhs.uk/conditions/heart-attack/)\n\n2. Shortness of Breath: Difficulty breathing, especially during activities or while at rest, can be a sign of heart problems.[[1]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[2]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)\n\n3. Fatigue: Persistent and unexplained fatigue, even with minimal exertion, can indicate heart issues.[[1]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[2]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)\n\n4. Pain or Discomfort in Other Areas: Pain or discomfort in the arms, jaw, back, neck, or stomach can be associated with heart disease, particularly if it occurs alongside other symptoms.[[1]](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease)[[2]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)\n\n5. Dizziness or Lightheadedness: Feeling faint or lightheaded, especially when standing up, can be a warning sign.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[2]](https://www.aurorahealthcare.org/services/heart-vascular/conditions/heart-disease/symptoms)\n\n6. Swelling in the Legs, Ankles, or Feet: Fluid retention and swelling in the lower extremities can be a sign of heart failure.[[1]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[2]](https://medlineplus.gov/ency/patientinstructions/000775.htm#:~:text=Swelling%20in%20the%20Legs%2C%20Ankles%2C%20or%20Feet&text=Swelling%20%28edema%29%20in%20your%20lower,or%20notice%20some%20weight%20gain.)\n\n7. Palpitations: Feeling like the heart is racing, fluttering, or skipping beats can indicate an arrhythmia, a type of heart rhythm disorder.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[2]](https://artemiscardiac.com/blog/early-signs-and-symptoms-of-heart-disease#:~:text=Heart%20Palpitations.%20If%20you%20feel%20your%20heart,feeling%20dizzy%20or%20uncomfortable%20in%20your%20chest.)\n\n8. Other Potential Symptoms: Some individuals may experience nausea, vomiting, sweating, or a feeling of indigestion.[[1]](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease)[[2]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)\n\nImportant Considerations:\n\n- Symptoms can vary in intensity and presentation from person to person.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[2]](https://www.nhs.uk/conditions/heart-attack/)\n- Some heart conditions can be silent, with no noticeable symptoms until a serious event like a heart attack occurs.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)\n- If you experience any of these symptoms, especially chest pain or shortness of breath, seek immediate medical attention.[[1]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)[[2]](https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.)",
+    "items": [
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "Heart disease symptoms can vary, but common indicators include chest pain or discomfort, shortness of breath, and fatigue. Other symptoms may include pain or discomfort in the arms, jaw, back, neck, or stomach, as well as dizziness, lightheadedness, and swelling in the feet or ankles.",
+        "markdown": "![Heart Disease: Signs, Symptoms, and Complications](data:image/png;base64,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)\nHeart disease symptoms can vary, but common indicators include `chest pain or discomfort, shortness of breath, and fatigue`.Other symptoms may include pain or discomfort in the arms, jaw, back, neck, or stomach, as well as dizziness, lightheadedness, and swelling in the feet or ankles.[[1]](https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease)[[2]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[3]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[4]](https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.)[[5]](https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.)",
+        "links": null,
+        "images": [
+          {
+            "type": "images_element",
+            "alt": "Heart Disease: Signs, Symptoms, and Complications",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/08091358-1066-0139-0000-d0881c32c2d7:1"
+          }
+        ],
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Mount Sinai",
+            "domain": "www.mountsinai.org",
+            "url": "https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease",
+            "title": "Warning signs and symptoms of heart disease Information | Mount Sinai - New York",
+            "text": null
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Harvard Health",
+            "domain": "www.health.harvard.edu",
+            "url": "https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble",
+            "title": "5 overlooked symptoms that may signal heart trouble - Harvard Health",
+            "text": "Aug 8, 2023"
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+            "domain": "www.cdc.gov",
+            "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+            "title": "About Men and Heart Disease - CDC",
+            "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Mayo Clinic",
+            "domain": "www.mayoclinic.org",
+            "url": "https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.",
+            "title": "Chest pain - Symptoms and causes - Mayo Clinic",
+            "text": "Dec 10, 2024 \u2014 Chest pain symptoms due to a heart attack or another heart condition may include: Pressure, tightness, pain, squeezing..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amandeep Hospitals",
+            "domain": "amandeephospital.org",
+            "url": "https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.",
+            "title": "Common Signs and Symptoms of Heart Disease",
+            "text": "Jun 7, 2022 \u2014 Shortness of breath is a common symptom of a heart attack, congestive heart failure, and pulmonary embolism. If you hav..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "Elaboration:",
+        "markdown": "Elaboration:[[1]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.heart.org",
+            "domain": "www.heart.org",
+            "url": "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms",
+            "title": "Heart Attack, Stroke and Cardiac Arrest Symptoms",
+            "text": "Heart Attack, Stroke and Cardiac Arrest Symptoms * CHEST DISCOMFORT. Most heart attacks involve discomfort in the center of the c..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "1. Chest Pain or Discomfort: This is a well-known symptom, but it can manifest differently for individuals. It may feel like pressure, squeezing, or a sharp pain in the chest, and can radiate to other areas like the arms, neck, jaw, or back.",
+        "markdown": "1. Chest Pain or Discomfort: This is a well-known symptom, but it can manifest differently for individuals.It may feel like pressure, squeezing, or a sharp pain in the chest, and can radiate to other areas like the arms, neck, jaw, or back.[[1]](https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease)[[2]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)[[3]](https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.)[[4]](https://www.nhs.uk/conditions/heart-attack/)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Mount Sinai",
+            "domain": "www.mountsinai.org",
+            "url": "https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease",
+            "title": "Warning signs and symptoms of heart disease Information | Mount Sinai - New York",
+            "text": null
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.heart.org",
+            "domain": "www.heart.org",
+            "url": "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms",
+            "title": "Heart Attack, Stroke and Cardiac Arrest Symptoms",
+            "text": "Heart Attack, Stroke and Cardiac Arrest Symptoms * CHEST DISCOMFORT. Most heart attacks involve discomfort in the center of the c..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Mayo Clinic",
+            "domain": "www.mayoclinic.org",
+            "url": "https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.",
+            "title": "Chest pain - Symptoms and causes - Mayo Clinic",
+            "text": "Dec 10, 2024 \u2014 Chest pain symptoms due to a heart attack or another heart condition may include: Pressure, tightness, pain, squeezing..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "nhs.uk",
+            "domain": "www.nhs.uk",
+            "url": "https://www.nhs.uk/conditions/heart-attack/",
+            "title": "Overview - - - Heart attack",
+            "text": "coughing or wheezing. The chest pain is often severe, but some people may only experience minor pain, similar to indigestion. Whil..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "2. Shortness of Breath: Difficulty breathing, especially during activities or while at rest, can be a sign of heart problems.",
+        "markdown": "2. Shortness of Breath: Difficulty breathing, especially during activities or while at rest, can be a sign of heart problems.[[1]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[2]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Harvard Health",
+            "domain": "www.health.harvard.edu",
+            "url": "https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble",
+            "title": "5 overlooked symptoms that may signal heart trouble - Harvard Health",
+            "text": "Aug 8, 2023"
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.heart.org",
+            "domain": "www.heart.org",
+            "url": "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms",
+            "title": "Heart Attack, Stroke and Cardiac Arrest Symptoms",
+            "text": "Heart Attack, Stroke and Cardiac Arrest Symptoms * CHEST DISCOMFORT. Most heart attacks involve discomfort in the center of the c..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "3. Fatigue: Persistent and unexplained fatigue, even with minimal exertion, can indicate heart issues.",
+        "markdown": "3. Fatigue: Persistent and unexplained fatigue, even with minimal exertion, can indicate heart issues.[[1]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[2]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Harvard Health",
+            "domain": "www.health.harvard.edu",
+            "url": "https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble",
+            "title": "5 overlooked symptoms that may signal heart trouble - Harvard Health",
+            "text": "Aug 8, 2023"
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+            "domain": "www.cdc.gov",
+            "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+            "title": "About Men and Heart Disease - CDC",
+            "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "4. Pain or Discomfort in Other Areas: Pain or discomfort in the arms, jaw, back, neck, or stomach can be associated with heart disease, particularly if it occurs alongside other symptoms.",
+        "markdown": "4. Pain or Discomfort in Other Areas: Pain or discomfort in the arms, jaw, back, neck, or stomach can be associated with heart disease, particularly if it occurs alongside other symptoms.[[1]](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease)[[2]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "British Heart Foundation",
+            "domain": "www.bhf.org.uk",
+            "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease",
+            "title": "10 signs you might have heart and circulatory disease - BHF",
+            "text": "May 22, 2024"
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.heart.org",
+            "domain": "www.heart.org",
+            "url": "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms",
+            "title": "Heart Attack, Stroke and Cardiac Arrest Symptoms",
+            "text": "Heart Attack, Stroke and Cardiac Arrest Symptoms * CHEST DISCOMFORT. Most heart attacks involve discomfort in the center of the c..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "5. Dizziness or Lightheadedness: Feeling faint or lightheaded, especially when standing up, can be a warning sign.",
+        "markdown": "5. Dizziness or Lightheadedness: Feeling faint or lightheaded, especially when standing up, can be a warning sign.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[2]](https://www.aurorahealthcare.org/services/heart-vascular/conditions/heart-disease/symptoms)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+            "domain": "www.cdc.gov",
+            "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+            "title": "About Men and Heart Disease - CDC",
+            "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Aurora Health Care",
+            "domain": "www.aurorahealthcare.org",
+            "url": "https://www.aurorahealthcare.org/services/heart-vascular/conditions/heart-disease/symptoms",
+            "title": "Heart Disease Symptoms",
+            "text": "Unexplained shortness of breath; Dizziness, feeling faint or lightheaded; Irregular heartbeat (arrhythmia); Swelling in your ankle..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "6. Swelling in the Legs, Ankles, or Feet: Fluid retention and swelling in the lower extremities can be a sign of heart failure.",
+        "markdown": "6. Swelling in the Legs, Ankles, or Feet: Fluid retention and swelling in the lower extremities can be a sign of heart failure.[[1]](https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble)[[2]](https://medlineplus.gov/ency/patientinstructions/000775.htm#:~:text=Swelling%20in%20the%20Legs%2C%20Ankles%2C%20or%20Feet&text=Swelling%20%28edema%29%20in%20your%20lower,or%20notice%20some%20weight%20gain.)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Harvard Health",
+            "domain": "www.health.harvard.edu",
+            "url": "https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble",
+            "title": "5 overlooked symptoms that may signal heart trouble - Harvard Health",
+            "text": "Aug 8, 2023"
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "MedlinePlus (.gov)",
+            "domain": "medlineplus.gov",
+            "url": "https://medlineplus.gov/ency/patientinstructions/000775.htm#:~:text=Swelling%20in%20the%20Legs%2C%20Ankles%2C%20or%20Feet&text=Swelling%20(edema)%20in%20your%20lower,or%20notice%20some%20weight%20gain.",
+            "title": "Warning signs and symptoms of heart disease - MedlinePlus",
+            "text": "Oct 15, 2024 \u2014 Swelling in the Legs, Ankles, or Feet. ... Swelling (edema) in your lower legs is another sign of a heart problem. Whe..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "7. Palpitations: Feeling like the heart is racing, fluttering, or skipping beats can indicate an arrhythmia, a type of heart rhythm disorder.",
+        "markdown": "7. Palpitations: Feeling like the heart is racing, fluttering, or skipping beats can indicate an arrhythmia, a type of heart rhythm disorder.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[2]](https://artemiscardiac.com/blog/early-signs-and-symptoms-of-heart-disease#:~:text=Heart%20Palpitations.%20If%20you%20feel%20your%20heart,feeling%20dizzy%20or%20uncomfortable%20in%20your%20chest.)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+            "domain": "www.cdc.gov",
+            "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+            "title": "About Men and Heart Disease - CDC",
+            "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Artemis Cardiac Care",
+            "domain": "artemiscardiac.com",
+            "url": "https://artemiscardiac.com/blog/early-signs-and-symptoms-of-heart-disease#:~:text=Heart%20Palpitations.%20If%20you%20feel%20your%20heart,feeling%20dizzy%20or%20uncomfortable%20in%20your%20chest.",
+            "title": "Early Signs and Symptoms of Heart Disease | Artemis Cardiac Care",
+            "text": "Aug 14, 2024 \u2014 Heart Palpitations. If you feel your heart racing, fluttering, or pounding, this might point to an irregular heartbeat..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": null,
+        "text": "8. Other Potential Symptoms: Some individuals may experience nausea, vomiting, sweating, or a feeling of indigestion.",
+        "markdown": "8. Other Potential Symptoms: Some individuals may experience nausea, vomiting, sweating, or a feeling of indigestion.[[1]](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease)[[2]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "British Heart Foundation",
+            "domain": "www.bhf.org.uk",
+            "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease",
+            "title": "10 signs you might have heart and circulatory disease - BHF",
+            "text": "May 22, 2024"
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+            "domain": "www.cdc.gov",
+            "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+            "title": "About Men and Heart Disease - CDC",
+            "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+          }
+        ]
+      },
+      {
+        "type": "ai_overview_element",
+        "position": "left",
+        "title": "Important Considerations:",
+        "text": "Symptoms can vary in intensity and presentation from person to person. Some heart conditions can be silent, with no noticeable symptoms until a serious event like a heart attack occurs. If you experience any of these symptoms, especially chest pain or shortness of breath, seek immediate medical attention.",
+        "markdown": "- Symptoms can vary in intensity and presentation from person to person.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)[[2]](https://www.nhs.uk/conditions/heart-attack/)\n- Some heart conditions can be silent, with no noticeable symptoms until a serious event like a heart attack occurs.[[1]](https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2)\n- If you experience any of these symptoms, especially chest pain or shortness of breath, seek immediate medical attention.[[1]](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)[[2]](https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.)",
+        "links": null,
+        "images": null,
+        "references": [
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+            "domain": "www.cdc.gov",
+            "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+            "title": "About Men and Heart Disease - CDC",
+            "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "nhs.uk",
+            "domain": "www.nhs.uk",
+            "url": "https://www.nhs.uk/conditions/heart-attack/",
+            "title": "Overview - - - Heart attack",
+            "text": "coughing or wheezing. The chest pain is often severe, but some people may only experience minor pain, similar to indigestion. Whil..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.heart.org",
+            "domain": "www.heart.org",
+            "url": "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms",
+            "title": "Heart Attack, Stroke and Cardiac Arrest Symptoms",
+            "text": "Heart Attack, Stroke and Cardiac Arrest Symptoms * CHEST DISCOMFORT. Most heart attacks involve discomfort in the center of the c..."
+          },
+          {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amandeep Hospitals",
+            "domain": "amandeephospital.org",
+            "url": "https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.",
+            "title": "Common Signs and Symptoms of Heart Disease",
+            "text": "Jun 7, 2022 \u2014 Shortness of breath is a common symptom of a heart attack, congestive heart failure, and pulmonary embolism. If you hav..."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Mount Sinai",
+        "domain": "www.mountsinai.org",
+        "url": "https://www.mountsinai.org/health-library/selfcare-instructions/warning-signs-and-symptoms-of-heart-disease",
+        "title": "Warning signs and symptoms of heart disease Information | Mount Sinai - New York",
+        "text": null
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "British Heart Foundation",
+        "domain": "www.bhf.org.uk",
+        "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/signs-you-might-have-heart-disease",
+        "title": "10 signs you might have heart and circulatory disease - BHF",
+        "text": "May 22, 2024"
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Harvard Health",
+        "domain": "www.health.harvard.edu",
+        "url": "https://www.health.harvard.edu/heart-health/5-overlooked-symptoms-that-may-signal-heart-trouble",
+        "title": "5 overlooked symptoms that may signal heart trouble - Harvard Health",
+        "text": "Aug 8, 2023"
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "www.heart.org",
+        "domain": "www.heart.org",
+        "url": "https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms",
+        "title": "Heart Attack, Stroke and Cardiac Arrest Symptoms",
+        "text": "Heart Attack, Stroke and Cardiac Arrest Symptoms * CHEST DISCOMFORT. Most heart attacks involve discomfort in the center of the c..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "domain": "www.cdc.gov",
+        "url": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html#:~:text=Symptoms,2",
+        "title": "About Men and Heart Disease - CDC",
+        "text": "May 15, 2024 \u2014 Symptoms. Sometimes heart disease may be \"silent\" and not diagnosed until a man experiences signs or symptoms of a hea..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "MedlinePlus (.gov)",
+        "domain": "medlineplus.gov",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000775.htm#:~:text=Swelling%20in%20the%20Legs%2C%20Ankles%2C%20or%20Feet&text=Swelling%20(edema)%20in%20your%20lower,or%20notice%20some%20weight%20gain.",
+        "title": "Warning signs and symptoms of heart disease - MedlinePlus",
+        "text": "Oct 15, 2024 \u2014 Swelling in the Legs, Ankles, or Feet. ... Swelling (edema) in your lower legs is another sign of a heart problem. Whe..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Mayo Clinic",
+        "domain": "www.mayoclinic.org",
+        "url": "https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838#:~:text=Chest%20pain%20symptoms%20due%20to%20a%20heart,teeth%20or%20upper%20belly.%20Shortness%20of%20breath.",
+        "title": "Chest pain - Symptoms and causes - Mayo Clinic",
+        "text": "Dec 10, 2024 \u2014 Chest pain symptoms due to a heart attack or another heart condition may include: Pressure, tightness, pain, squeezing..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "nhs.uk",
+        "domain": "www.nhs.uk",
+        "url": "https://www.nhs.uk/conditions/heart-attack/",
+        "title": "Overview - - - Heart attack",
+        "text": "coughing or wheezing. The chest pain is often severe, but some people may only experience minor pain, similar to indigestion. Whil..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Aurora Health Care",
+        "domain": "www.aurorahealthcare.org",
+        "url": "https://www.aurorahealthcare.org/services/heart-vascular/conditions/heart-disease/symptoms",
+        "title": "Heart Disease Symptoms",
+        "text": "Unexplained shortness of breath; Dizziness, feeling faint or lightheaded; Irregular heartbeat (arrhythmia); Swelling in your ankle..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Artemis Cardiac Care",
+        "domain": "artemiscardiac.com",
+        "url": "https://artemiscardiac.com/blog/early-signs-and-symptoms-of-heart-disease#:~:text=Heart%20Palpitations.%20If%20you%20feel%20your%20heart,feeling%20dizzy%20or%20uncomfortable%20in%20your%20chest.",
+        "title": "Early Signs and Symptoms of Heart Disease | Artemis Cardiac Care",
+        "text": "Aug 14, 2024 \u2014 Heart Palpitations. If you feel your heart racing, fluttering, or pounding, this might point to an irregular heartbeat..."
+      },
+      {
+        "type": "ai_overview_reference",
+        "position": "right",
+        "source": "Amandeep Hospitals",
+        "domain": "amandeephospital.org",
+        "url": "https://amandeephospital.org/blogs/common-signs-and-symptoms-of-heart-disease/#:~:text=Shortness%20of%20breath%20is%20a%20common%20symptom,discomfort%2C%20you%20should%20call%20an%20ambulance%20immediately.",
+        "title": "Common Signs and Symptoms of Heart Disease",
+        "text": "Jun 7, 2022 \u2014 Shortness of breath is a common symptom of a heart attack, congestive heart failure, and pulmonary embolism. If you hav..."
+      }
+    ],
+    "rectangle": null
+  }
+]

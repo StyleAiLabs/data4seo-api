@@ -1,0 +1,1708 @@
+{
+  "keyword": "ChatGPT",
+  "total_items": 102,
+  "first_10_items": [
+    {
+      "type": "organic",
+      "rank_group": 1,
+      "rank_absolute": 1,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "domain": "openai.com",
+      "title": "Introducing ChatGPT",
+      "url": "https://openai.com/index/chatgpt/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://openai.com \u203a index \u203a chatgpt",
+      "website_name": "OpenAI",
+      "is_image": true,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+      "pre_snippet": "11/30/2022 00:00:00",
+      "extended_snippet": null,
+      "images": [
+        {
+          "type": "images_element",
+          "alt": "ChatGPT from openai.com",
+          "url": "https://openai.com/index/chatgpt/",
+          "image_url": "https://api.dataforseo.com/cdn/i/08091345-1066-0139-0000-edc5b9da4f8f:0"
+        }
+      ],
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "ChatGPT"
+      ],
+      "links": [
+        {
+          "type": "link_element",
+          "title": "Stories",
+          "description": null,
+          "url": "https://openai.com/stories/",
+          "domain": "openai.com"
+        },
+        {
+          "type": "link_element",
+          "title": "API",
+          "description": null,
+          "url": "https://openai.com/stories/api/",
+          "domain": "openai.com"
+        },
+        {
+          "type": "link_element",
+          "title": "Research",
+          "description": null,
+          "url": "https://openai.com/research/index/",
+          "domain": "openai.com"
+        },
+        {
+          "type": "link_element",
+          "title": "LaunchDarkly's approach to AI...",
+          "description": null,
+          "url": "https://openai.com/index/launchdarkly-claire-vo/",
+          "domain": "openai.com"
+        }
+      ],
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": "2022-11-30 00:00:00 +00:00",
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 2,
+      "rank_absolute": 2,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "domain": "openai.com",
+      "title": "OpenAI",
+      "url": "https://openai.com/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://openai.com",
+      "website_name": "OpenAI",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "What can I help with? Message ChatGPT. Quiz me on vocabulary. Plan a surf trip to Costa Rica in August. India stock market today.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "Message ChatGPT"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 3,
+      "rank_absolute": 3,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+      "domain": "chatgpt.com",
+      "title": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://chatgpt.com",
+      "website_name": "chatgpt.com",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing,\u00a0...",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "ChatGPT helps you get answers, find inspiration and be more productive"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 4,
+      "rank_absolute": 4,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+      "domain": "openai.com",
+      "title": "Introducing GPT-5",
+      "url": "https://openai.com/index/introducing-gpt-5/",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://openai.com \u203a index \u203a introducing-gpt-5",
+      "website_name": "OpenAI",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "Our smartest, fastest, most useful model yet, with built-in thinking that puts expert-level intelligence in everyone's hands. Try on ChatGPT\u00a0...",
+      "pre_snippet": "2 days ago",
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "smartest, fastest, most useful model"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": "2025-08-07 10:45:31 +00:00",
+      "rectangle": null
+    },
+    {
+      "type": "product_considerations",
+      "rank_group": 1,
+      "rank_absolute": 5,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]",
+      "title": null,
+      "items": [
+        {
+          "type": "product_considerations_element",
+          "title": "How do I use ChatGPT?",
+          "consideration_category": "Usage Instructions",
+          "expanded_element": [
+            {
+              "type": "product_considerations_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "To effectively use ChatGPT, start by accessing it through the ChatGPT website or mobile app, and then create a free OpenAI account. Once logged in, you can start a new conversation and input your questions or prompts. ChatGPT will generate responses based on your input, and you can interact with those responses by editing the prompt, regenerating the response, or sharing the conversation.",
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "How to use ChatGPT: A beginner's guide to the most popular AI ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/08091345-1066-0139-0000-edc5b9da4f8f:1"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=GFSiogvmljE&pp=0gcJCfwAo7VqN5tD",
+                      "title": "How To Use ChatGPT by Open AI For Beginners",
+                      "text": "Jul 10, 2024 \u2014 if you've heard of chat GPT. but you just haven't had a chance to mess around with it yet welcome to this short tutori..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/how-to-use-chatgpt/",
+                      "title": "How to use ChatGPT [a beginner's guide] | Zapier",
+                      "text": null
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "CNET",
+                      "domain": "www.cnet.com",
+                      "url": "https://www.cnet.com/tech/services-and-software/get-familiar-with-chatgpt-a-beginners-guide-to-using-the-most-popular-ai-chatbot/#:~:text=Getting%20set%20up%20with%20ChatGPT,everything%20they%20both%20tell%20you.",
+                      "title": "Get Familiar With ChatGPT: A Beginner's Guide to Using the Most ...",
+                      "text": "Jul 16, 2025 \u2014 Getting set up with ChatGPT. You can use ChatGPT as a search engine, much like Google's home page. Go to chatgpt.com o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Analytics Vidhya",
+                      "domain": "www.analyticsvidhya.com",
+                      "url": "https://www.analyticsvidhya.com/blog/2023/05/how-to-harness-the-full-potential-of-chatgpt-tips-prompts/#:~:text=Access%20ChatGPT:,to%20inaccurate%20or%20irrelevant%20results.",
+                      "title": "How to Use ChatGPT? A Simple Guide for Beginners",
+                      "text": "Apr 28, 2025 \u2014 Access ChatGPT: Go to chat.openai.com or use the mobile app and sign in or sign up. Ask Your Question: In the message ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "UF Business Library",
+                      "domain": "businesslibrary.uflib.ufl.edu",
+                      "url": "https://businesslibrary.uflib.ufl.edu/chatgptquickstart/guides-and-tutorials#:~:text=ChatGPT%20Quick%20Start%20Guide%20A%20comprehensive%20video,tips%20for%20both%20new%20and%20experienced%20users.",
+                      "title": "UF Business Library: ChatGPT Quick Start Guide: ChatGPT Guides & Tutorials",
+                      "text": "May 22, 2025 \u2014 ChatGPT Quick Start Guide A comprehensive video tutorial that walks you through the basics of using ChatGPT ( Chat GPT..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "This video provides a beginner's guide to using ChatGPT, including how to start a conversation and input prompts:",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "Here's a more detailed breakdown:",
+                  "text": "1. Access ChatGPT: Go to chat.openai.com or download the ChatGPT app from the App Store or Google Play. 2. Sign Up or Log In: If you don't have an account, click \"Sign Up\" and follow the instructions. You can choose a free or paid (premium) plan, according to CNET. If you have an account, log in. 3. Start a New Conversation: Click \"New chat\" or a similar button to begin a fresh conversation. 4. Enter Your Prompt: Type your question or request into the message box. Be as clear and specific as possible to get the best results. 5. Interact with the Response: ChatGPT will generate a response. You can interact with the response in several ways: 6. Explore Advanced Features: Custom Instructions : You can customize how ChatGPT responds by setting specific instructions, such as tailoring its tone or style. Projects : Organize your chats into projects for better management. Canvas : Use writing shortcuts to suggest edits, adjust length, change reading level, and add emojis. Agent Mode : For more complex tasks, you can use the Agent mode, which allows you to describe the task you want completed and the agent will begin executing it.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/how-to-use-chatgpt/",
+                      "title": "How to use ChatGPT [a beginner's guide] | Zapier",
+                      "text": null
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "CNET",
+                      "domain": "www.cnet.com",
+                      "url": "https://www.cnet.com/tech/services-and-software/get-familiar-with-chatgpt-a-beginners-guide-to-using-the-most-popular-ai-chatbot/#:~:text=Getting%20set%20up%20with%20ChatGPT,everything%20they%20both%20tell%20you.",
+                      "title": "Get Familiar With ChatGPT: A Beginner's Guide to Using the Most ...",
+                      "text": "Jul 16, 2025 \u2014 Getting set up with ChatGPT. You can use ChatGPT as a search engine, much like Google's home page. Go to chatgpt.com o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "ZDNet",
+                      "domain": "www.zdnet.com",
+                      "url": "https://www.zdnet.com/article/how-to-use-chatgpt-a-beginners-guide-to-the-most-popular-ai-chatbot/#:~:text=To%20get%20started%20with%20ChatGPT,exclusive%20to%20the%20web%20browser.",
+                      "title": "How to use ChatGPT: A beginner's guide to the most popular AI chatbot",
+                      "text": "Mar 28, 2025 \u2014 To get started with ChatGPT, simply head to chat.openai.com or download the mobile app from the Apple App Store or Goo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "jofibo.com",
+                      "domain": "jofibo.com",
+                      "url": "https://jofibo.com/blog/chatgpt-resume",
+                      "title": "How to Use Chat GPT for Your Resume",
+                      "text": "May 31, 2023 \u2014 How do I get started with using Chat GPT for my resume? Go to https://chat.openai.com/. Click on the \"Sign up\" button."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "wikiHow",
+                      "domain": "www.wikihow.com",
+                      "url": "https://www.wikihow.com/Use-Chat-Gpt",
+                      "title": "How to Use ChatGPT: A Simple Guide for Beginners - wikiHow",
+                      "text": "Jun 13, 2025 \u2014  Things You Should Know * You'll need an email address to create an OpenAI account. * Once logged in, click the new ch..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Analytics Vidhya",
+                      "domain": "www.analyticsvidhya.com",
+                      "url": "https://www.analyticsvidhya.com/blog/2023/05/how-to-harness-the-full-potential-of-chatgpt-tips-prompts/#:~:text=Access%20ChatGPT:,to%20inaccurate%20or%20irrelevant%20results.",
+                      "title": "How to Use ChatGPT? A Simple Guide for Beginners",
+                      "text": "Apr 28, 2025 \u2014 Access ChatGPT: Go to chat.openai.com or use the mobile app and sign in or sign up. Ask Your Question: In the message ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Medium",
+                      "domain": "medium.com",
+                      "url": "https://medium.com/@Kev_G/chatgpt-for-idiots-2b86b43e76ac#:~:text=Here's%20some%20additional%20tips:%20If%20ChatGPT%20doesn't,you%20hover%20your%20mouse%20over%20your%20prompt).",
+                      "title": "ChatGPT for Idiots. Getting what you want out of ChatGPT\u2026 | by Kevin Guo",
+                      "text": "Dec 10, 2023 \u2014 Here's some additional tips: If ChatGPT doesn't give you what you want, feel free to tell it what it needs to change o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=PDw3Uk9dN9k&t=1052",
+                      "title": "How to Use ChatGPT (2025)",
+                      "text": "Feb 10, 2025 \u2014 once you have a new project over on the lefth hand side you can take one of your chats. and you can drag and drop it i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Reddit\u00a0\u00b7",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/ChatGPT/comments/1f35azh/how_to_use_chatgpt_properly/#:~:text=In%20the%20%E2%80%9CHow%20you%20would,8fe9-480c-b5cb-a982c6afbf49",
+                      "title": "How to use ChatGPT properly : r/ChatGPT - Reddit",
+                      "text": "Aug 28, 2024 \u2014 In the \u201cHow you would like ChatGPT to respond\u201d part of the custom instructions, I added the following section to allow..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Codefixer",
+                      "domain": "www.codefixer.com",
+                      "url": "https://www.codefixer.com/blog/using-chatgpt-for-content-creation/#:~:text=Start%20by%20giving%20ChatGPT%20clear%20direction%20on,make%20sure%20it%20still%20sounds%20like%20you.",
+                      "title": "7 Foolproof Ways to Use ChatGPT for Content Creation",
+                      "text": "May 7, 2025 \u2014 Start by giving ChatGPT clear direction on your tone, style, and audience. Include sample copy or brand voice guideline..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Help Center",
+                      "domain": "help.openai.com",
+                      "url": "https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt#:~:text=Moving%20existing%20chats%20into%20a,it%20out%20of%20the%20project.",
+                      "title": "Projects in ChatGPT - OpenAI Help Center",
+                      "text": "Moving existing chats into a project From the chat list in the left sidebar, drag any chat onto your desired project, or onto New ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Help Center",
+                      "domain": "help.openai.com",
+                      "url": "https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it#:~:text=Shortcuts%20on%20canvas%20for%20writing,for%20extra%20emphasis%20and%20color.",
+                      "title": "What is the canvas feature in ChatGPT and how do I use it?",
+                      "text": "Shortcuts on canvas for writing and coding. Canvas with ChatGPT provides access to a bundle of writing shortcuts that enable you t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Help Center",
+                      "domain": "help.openai.com",
+                      "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent#:~:text=How%20do%20I%20use%20ChatGPT,time%20to%20provide%20additional%20instructions.",
+                      "title": "ChatGPT agent - OpenAI Help Center",
+                      "text": "How do I use ChatGPT agent? To use ChatGPT agent, select Agent mode from the tools menu or type /agent in the composer. Once enabl..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "This video explains how to use ChatGPT with projects and custom instructions:",
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=PDw3Uk9dN9k&t=1052",
+                  "title": "How to Use ChatGPT (2025)",
+                  "text": "Feb 10, 2025 \u2014 once you have a new project over on the lefth hand side you can take one of your chats. and you can drag and drop it i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=GFSiogvmljE&pp=0gcJCfwAo7VqN5tD",
+                  "title": "How To Use ChatGPT by Open AI For Beginners",
+                  "text": "Jul 10, 2024 \u2014 if you've heard of chat GPT. but you just haven't had a chance to mess around with it yet welcome to this short tutori..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Reddit\u00a0\u00b7",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/ChatGPT/comments/1f35azh/how_to_use_chatgpt_properly/#:~:text=In%20the%20%E2%80%9CHow%20you%20would,8fe9-480c-b5cb-a982c6afbf49",
+                  "title": "How to use ChatGPT properly : r/ChatGPT - Reddit",
+                  "text": "Aug 28, 2024 \u2014 In the \u201cHow you would like ChatGPT to respond\u201d part of the custom instructions, I added the following section to allow..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Zapier",
+                  "domain": "zapier.com",
+                  "url": "https://zapier.com/blog/how-to-use-chatgpt/",
+                  "title": "How to use ChatGPT [a beginner's guide] | Zapier",
+                  "text": null
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "CNET",
+                  "domain": "www.cnet.com",
+                  "url": "https://www.cnet.com/tech/services-and-software/get-familiar-with-chatgpt-a-beginners-guide-to-using-the-most-popular-ai-chatbot/#:~:text=Getting%20set%20up%20with%20ChatGPT,everything%20they%20both%20tell%20you.",
+                  "title": "Get Familiar With ChatGPT: A Beginner's Guide to Using the Most ...",
+                  "text": "Jul 16, 2025 \u2014 Getting set up with ChatGPT. You can use ChatGPT as a search engine, much like Google's home page. Go to chatgpt.com o..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Help Center",
+                  "domain": "help.openai.com",
+                  "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent#:~:text=How%20do%20I%20use%20ChatGPT,time%20to%20provide%20additional%20instructions.",
+                  "title": "ChatGPT agent - OpenAI Help Center",
+                  "text": "How do I use ChatGPT agent? To use ChatGPT agent, select Agent mode from the tools menu or type /agent in the composer. Once enabl..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Help Center",
+                  "domain": "help.openai.com",
+                  "url": "https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it#:~:text=Shortcuts%20on%20canvas%20for%20writing,for%20extra%20emphasis%20and%20color.",
+                  "title": "What is the canvas feature in ChatGPT and how do I use it?",
+                  "text": "Shortcuts on canvas for writing and coding. Canvas with ChatGPT provides access to a bundle of writing shortcuts that enable you t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Analytics Vidhya",
+                  "domain": "www.analyticsvidhya.com",
+                  "url": "https://www.analyticsvidhya.com/blog/2023/05/how-to-harness-the-full-potential-of-chatgpt-tips-prompts/#:~:text=Access%20ChatGPT:,to%20inaccurate%20or%20irrelevant%20results.",
+                  "title": "How to Use ChatGPT? A Simple Guide for Beginners",
+                  "text": "Apr 28, 2025 \u2014 Access ChatGPT: Go to chat.openai.com or use the mobile app and sign in or sign up. Ask Your Question: In the message ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "ZDNet",
+                  "domain": "www.zdnet.com",
+                  "url": "https://www.zdnet.com/article/how-to-use-chatgpt-a-beginners-guide-to-the-most-popular-ai-chatbot/#:~:text=To%20get%20started%20with%20ChatGPT,exclusive%20to%20the%20web%20browser.",
+                  "title": "How to use ChatGPT: A beginner's guide to the most popular AI chatbot",
+                  "text": "Mar 28, 2025 \u2014 To get started with ChatGPT, simply head to chat.openai.com or download the mobile app from the Apple App Store or Goo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Help Center",
+                  "domain": "help.openai.com",
+                  "url": "https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt#:~:text=Moving%20existing%20chats%20into%20a,it%20out%20of%20the%20project.",
+                  "title": "Projects in ChatGPT - OpenAI Help Center",
+                  "text": "Moving existing chats into a project From the chat list in the left sidebar, drag any chat onto your desired project, or onto New ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "wikiHow",
+                  "domain": "www.wikihow.com",
+                  "url": "https://www.wikihow.com/Use-Chat-Gpt",
+                  "title": "How to Use ChatGPT: A Simple Guide for Beginners - wikiHow",
+                  "text": "Jun 13, 2025 \u2014  Things You Should Know * You'll need an email address to create an OpenAI account. * Once logged in, click the new ch..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Codefixer",
+                  "domain": "www.codefixer.com",
+                  "url": "https://www.codefixer.com/blog/using-chatgpt-for-content-creation/#:~:text=Start%20by%20giving%20ChatGPT%20clear%20direction%20on,make%20sure%20it%20still%20sounds%20like%20you.",
+                  "title": "7 Foolproof Ways to Use ChatGPT for Content Creation",
+                  "text": "May 7, 2025 \u2014 Start by giving ChatGPT clear direction on your tone, style, and audience. Include sample copy or brand voice guideline..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "UF Business Library",
+                  "domain": "businesslibrary.uflib.ufl.edu",
+                  "url": "https://businesslibrary.uflib.ufl.edu/chatgptquickstart/guides-and-tutorials#:~:text=ChatGPT%20Quick%20Start%20Guide%20A%20comprehensive%20video,tips%20for%20both%20new%20and%20experienced%20users.",
+                  "title": "UF Business Library: ChatGPT Quick Start Guide: ChatGPT Guides & Tutorials",
+                  "text": "May 22, 2025 \u2014 ChatGPT Quick Start Guide A comprehensive video tutorial that walks you through the basics of using ChatGPT ( Chat GPT..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "jofibo.com",
+                  "domain": "jofibo.com",
+                  "url": "https://jofibo.com/blog/chatgpt-resume",
+                  "title": "How to Use Chat GPT for Your Resume",
+                  "text": "May 31, 2023 \u2014 How do I get started with using Chat GPT for my resume? Go to https://chat.openai.com/. Click on the \"Sign up\" button."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Medium",
+                  "domain": "medium.com",
+                  "url": "https://medium.com/@Kev_G/chatgpt-for-idiots-2b86b43e76ac#:~:text=Here's%20some%20additional%20tips:%20If%20ChatGPT%20doesn't,you%20hover%20your%20mouse%20over%20your%20prompt).",
+                  "title": "ChatGPT for Idiots. Getting what you want out of ChatGPT\u2026 | by Kevin Guo",
+                  "text": "Dec 10, 2023 \u2014 Here's some additional tips: If ChatGPT doesn't give you what you want, feel free to tell it what it needs to change o..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "product_considerations_element",
+          "title": "What is ChatGPT used for?",
+          "consideration_category": "Uses",
+          "expanded_element": [
+            {
+              "type": "product_considerations_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "ChatGPT is a versatile AI chatbot used for various tasks such as answering questions, generating creative text formats, translating languages, and providing information. It can be used for both work-related tasks like content creation and brainstorming, as well as personal tasks like writing stories or finding the best deals.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/how-to-use-chatgpt/#:~:text=use%20ChatGPT:%20FAQs-,What%20is%20ChatGPT?,basic%20actions%20on%20your%20behalf",
+                      "title": "How to use ChatGPT: A beginner's guide to getting started - Zapier",
+                      "text": "What is ChatGPT? ChatGPT is a chatbot app built by OpenAI that can process text, image, and audio inputs (depending on the AI mode..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "CNET",
+                      "domain": "www.cnet.com",
+                      "url": "https://www.cnet.com/tech/services-and-software/get-started-with-chatgpt-a-beginners-guide-to-using-the-super-popular-ai-chatbot/#:~:text=What%20does%20ChatGPT%20actually%20do,browse%20trending%20topics%20under%20Search.",
+                      "title": "Get Started With ChatGPT: A Beginner's Guide to Using ... - CNET",
+                      "text": "Jul 29, 2025 \u2014 What does ChatGPT actually do? ChatGPT can answer your questions, summarize text, write new content, code and translat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "University of Central Arkansas \u2014 UCA",
+                      "domain": "uca.edu",
+                      "url": "https://uca.edu/cetal/chat-gpt/#:~:text=Features%20and%20Limitations%20of%20ChatGPT,Classify%20things",
+                      "title": "Chat GPT: What is it? - University of Central Arkansas",
+                      "text": "Features and Limitations of ChatGPT One of the key features of chat GPT is its ability to generate responses like humans in real-t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "AIMultiple",
+                      "domain": "research.aimultiple.com",
+                      "url": "https://research.aimultiple.com/chatgpt-use-cases/#:~:text=ChatGPT%20can%20be%20used%20to,form%20content%20like%20entire%20articles",
+                      "title": "50 ChatGPT Use Cases with Real Life Examples in 2025",
+                      "text": "Jul 29, 2025 \u2014 ChatGPT can be used to generate high-quality content for websites, blogs, or social media platforms in a few seconds."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "Here's a more detailed breakdown of its uses:",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "Content Creation and Writing:",
+                  "text": "Generating various text formats: ChatGPT can produce different types of text, including articles, blog posts, social media content, emails, poems, and even code. Assisting with writing: It can help with drafting documents, summarizing long texts, and improving writing style. Brainstorming ideas: ChatGPT can help generate creative ideas for projects, stories, or marketing campaigns. Summarizing information: It can condense large amounts of text into shorter, more digestible summaries. Creating scripts and storyboards: It can assist in developing scripts for videos, movies, or other creative projects. Generating images based on text prompts: DALL-E 3, integrated with ChatGPT, allows for image creation.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/how-to-use-chatgpt/#:~:text=use%20ChatGPT:%20FAQs-,What%20is%20ChatGPT?,basic%20actions%20on%20your%20behalf",
+                      "title": "How to use ChatGPT: A beginner's guide to getting started - Zapier",
+                      "text": "What is ChatGPT? ChatGPT is a chatbot app built by OpenAI that can process text, image, and audio inputs (depending on the AI mode..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "University of Central Arkansas \u2014 UCA",
+                      "domain": "uca.edu",
+                      "url": "https://uca.edu/cetal/chat-gpt/#:~:text=Features%20and%20Limitations%20of%20ChatGPT,Classify%20things",
+                      "title": "Chat GPT: What is it? - University of Central Arkansas",
+                      "text": "Features and Limitations of ChatGPT One of the key features of chat GPT is its ability to generate responses like humans in real-t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "AIMultiple",
+                      "domain": "research.aimultiple.com",
+                      "url": "https://research.aimultiple.com/chatgpt-use-cases/#:~:text=ChatGPT%20can%20be%20used%20to,form%20content%20like%20entire%20articles",
+                      "title": "50 ChatGPT Use Cases with Real Life Examples in 2025",
+                      "text": "Jul 29, 2025 \u2014 ChatGPT can be used to generate high-quality content for websites, blogs, or social media platforms in a few seconds."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Developer Community",
+                      "domain": "community.openai.com",
+                      "url": "https://community.openai.com/t/what-do-people-use-chatgpt-for/432529#:~:text=Information%20retrieval:%20ChatGPT%20can%20answer,for%20storytelling%20and%20game%20development.",
+                      "title": "What do people use ChatGPT for - OpenAI Developer Community",
+                      "text": "Oct 14, 2023 \u2014 Information retrieval: ChatGPT can answer questions, provide explanations, and offer information on a wide variety of ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "CNET",
+                      "domain": "www.cnet.com",
+                      "url": "https://www.cnet.com/tech/services-and-software/get-started-with-chatgpt-a-beginners-guide-to-using-the-super-popular-ai-chatbot/#:~:text=What%20does%20ChatGPT%20actually%20do,browse%20trending%20topics%20under%20Search.",
+                      "title": "Get Started With ChatGPT: A Beginner's Guide to Using ... - CNET",
+                      "text": "Jul 29, 2025 \u2014 What does ChatGPT actually do? ChatGPT can answer your questions, summarize text, write new content, code and translat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=0ahIpX6H2Fw&t=1421",
+                      "title": "50+ Insane Ways To Use The NEW ChatGPT",
+                      "text": "Apr 2, 2025 \u2014 and here's one from Joanna where they use Chat GPT to make a poster for their Death Valley. movie i mean it looks like ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "edX",
+                      "domain": "www.edx.org",
+                      "url": "https://www.edx.org/learn/chatgpt#:~:text=Marketing%20and%20advertising:%20Marketers%20can%20use%20ChatGPT,engaging%20content%2C%20and%20brainstorm%20creative%20campaign%20ideas.",
+                      "title": "Best Online ChatGPT Courses and Programs",
+                      "text": "Marketing and advertising: Marketers can use ChatGPT to draft ad copy, create engaging content, and brainstorm creative campaign i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "SCF Coding Academy",
+                      "domain": "coding.scf.edu",
+                      "url": "https://coding.scf.edu/ai-vs-ai-comparing-chatgpt-to-perplexity-ai/#:~:text=Versatility:%20It%20(%20ChatGPT%20)%20can%20also,writers%20and%20marketers%20in%20their%20brainstorming%20processes.",
+                      "title": "AI vs. AI: Comparing ChatGPT to Perplexity AI - SCF Advanced Technology Center",
+                      "text": "Mar 19, 2025 \u2014 Versatility: It ( ChatGPT ) can also be used in content creation, generating ideas for articles, stories, or marketing..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=PDw3Uk9dN9k",
+                      "title": "How to Use ChatGPT (2025)",
+                      "text": "Feb 10, 2025 \u2014 hi everyone Kevin. here today we're going to learn how to use Chat GPT chat GPT is an advanced AI that can answer ques..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Roe Digital",
+                      "domain": "roedigital.com",
+                      "url": "https://roedigital.com/chatgpt/#:~:text=ChatGPT%20can%20condense%20large%20amounts%20of%20text,for%20summarizing%20articles%2C%20reports%2C%20or%20meeting%20notes.",
+                      "title": "What is ChatGPT?",
+                      "text": "ChatGPT can condense large amounts of text into shorter, more digestible summaries, proving helpful for summarizing articles, repo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI",
+                      "domain": "openai.com",
+                      "url": "https://openai.com/chatgpt/overview/#:~:text=Create%20images,DALL%C2%B7E%203",
+                      "title": "ChatGPT - OpenAI",
+                      "text": "Create images. Ask ChatGPT to create images using a simple sentence or detailed paragraph. You. My daughter loves pink jellyfish."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "This video explains how ChatGPT can be used to generate storyboards for creative projects:",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "Information and Research:",
+                  "text": "Answering questions and providing explanations: ChatGPT can access and process information from its training data and the internet to answer questions on various topics. Research assistance: It can help with information retrieval, data analysis, and understanding complex concepts. Language translation: It can translate text between different languages. Fact-checking: While not perfect, ChatGPT can be used to quickly check facts and provide context.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/how-to-use-chatgpt/#:~:text=use%20ChatGPT:%20FAQs-,What%20is%20ChatGPT?,basic%20actions%20on%20your%20behalf",
+                      "title": "How to use ChatGPT: A beginner's guide to getting started - Zapier",
+                      "text": "What is ChatGPT? ChatGPT is a chatbot app built by OpenAI that can process text, image, and audio inputs (depending on the AI mode..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "CNET",
+                      "domain": "www.cnet.com",
+                      "url": "https://www.cnet.com/tech/services-and-software/get-started-with-chatgpt-a-beginners-guide-to-using-the-super-popular-ai-chatbot/#:~:text=What%20does%20ChatGPT%20actually%20do,browse%20trending%20topics%20under%20Search.",
+                      "title": "Get Started With ChatGPT: A Beginner's Guide to Using ... - CNET",
+                      "text": "Jul 29, 2025 \u2014 What does ChatGPT actually do? ChatGPT can answer your questions, summarize text, write new content, code and translat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=p3840QxlYzc&t=273",
+                      "title": "The CORRECT way to use ChatGPT (in 2025)",
+                      "text": "Jul 1, 2025 \u2014 if you need a fact with a quick explainer. use chat search building on top of the previous. example instead of just ask..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Developer Community",
+                      "domain": "community.openai.com",
+                      "url": "https://community.openai.com/t/what-do-people-use-chatgpt-for/432529#:~:text=Information%20retrieval:%20ChatGPT%20can%20answer,for%20storytelling%20and%20game%20development.",
+                      "title": "What do people use ChatGPT for - OpenAI Developer Community",
+                      "text": "Oct 14, 2023 \u2014 Information retrieval: ChatGPT can answer questions, provide explanations, and offer information on a wide variety of ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "University of Central Arkansas \u2014 UCA",
+                      "domain": "uca.edu",
+                      "url": "https://uca.edu/cetal/chat-gpt/#:~:text=Features%20and%20Limitations%20of%20ChatGPT,Classify%20things",
+                      "title": "Chat GPT: What is it? - University of Central Arkansas",
+                      "text": "Features and Limitations of ChatGPT One of the key features of chat GPT is its ability to generate responses like humans in real-t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=3dr7EwptbsY&pp=0gcJCfwAo7VqN5tD",
+                      "title": "5 Powerful Ways to Use ChatGPT for Academic Research (without getting busted)",
+                      "text": "Mar 19, 2025 \u2014 hey Professor David Stuckler here today I'm going to be sharing with you five incredibly powerful use cases of chat. G..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=PRbFHYcigfY#:~:text=by%20Ron%20Brown%20Discover%20the%20power%20of,information%2C%20combining%20real-time%20data%20with%20AI%20efficiency.",
+                      "title": "Introducing The Revolutionary Chat Gpt Search For Pc And Mobile!",
+                      "text": "Nov 3, 2024 \u2014 by Ron Brown Discover the power of Chat GPT Search in this detailed video! Released on November 1, 2024, Chat GPT Searc..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "LinkedIn",
+                      "domain": "www.linkedin.com",
+                      "url": "https://www.linkedin.com/pulse/how-use-chatgpt-research-tool-comprehensive-guide-glen-elvis-m-j",
+                      "title": "How to Use ChatGPT as a Research Tool: A Comprehensive Guide",
+                      "text": "May 12, 2023 \u2014 How to Use ChatGPT ( Chat GPT ) as a Research Tool: A Comprehensive Guide 1. Understanding ChatGPT 2. Generating Resea..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "This video demonstrates how to use ChatGPT for research, including finding information and summarizing data:",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "Coding and Development:",
+                  "text": "Code generation and debugging: ChatGPT can help with writing code, debugging errors, and understanding programming concepts. Converting natural language to code: It can translate human-readable instructions into code for various programming languages. Creating WordPress plugins: It can assist in generating code for plugins to extend the functionality of WordPress websites.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Developer Community",
+                      "domain": "community.openai.com",
+                      "url": "https://community.openai.com/t/what-do-people-use-chatgpt-for/432529#:~:text=Information%20retrieval:%20ChatGPT%20can%20answer,for%20storytelling%20and%20game%20development.",
+                      "title": "What do people use ChatGPT for - OpenAI Developer Community",
+                      "text": "Oct 14, 2023 \u2014 Information retrieval: ChatGPT can answer questions, provide explanations, and offer information on a wide variety of ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "University of Central Arkansas \u2014 UCA",
+                      "domain": "uca.edu",
+                      "url": "https://uca.edu/cetal/chat-gpt/#:~:text=Features%20and%20Limitations%20of%20ChatGPT,Classify%20things",
+                      "title": "Chat GPT: What is it? - University of Central Arkansas",
+                      "text": "Features and Limitations of ChatGPT One of the key features of chat GPT is its ability to generate responses like humans in real-t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Zapier",
+                      "domain": "zapier.com",
+                      "url": "https://zapier.com/blog/how-to-use-chatgpt/#:~:text=use%20ChatGPT:%20FAQs-,What%20is%20ChatGPT?,basic%20actions%20on%20your%20behalf",
+                      "title": "How to use ChatGPT: A beginner's guide to getting started - Zapier",
+                      "text": "What is ChatGPT? ChatGPT is a chatbot app built by OpenAI that can process text, image, and audio inputs (depending on the AI mode..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Elegant Themes",
+                      "domain": "www.elegantthemes.com",
+                      "url": "https://www.elegantthemes.com/blog/business/what-is-chatgpt#:~:text=copy%20more%20relevant.-,4.,2em%20and%20make%20it%20red.",
+                      "title": "What is ChatGPT & 10 Creative Ways To Use It in 2025",
+                      "text": "Jan 7, 2025 \u2014 4. Creating WordPress Plugins. Another great way to use ChatGPT is to create plugins that you can use on your WordPress..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=gn7yViTCHDw#:~:text=Wish%20WordPress%20could%20do%20something%20it%20can't%2C,Intro%2000:25%20Pros%20&%20Cons%20Of%20WordPress",
+                      "title": "How To Create A WordPress Plugin With ChatGPT (It's EASY!)",
+                      "text": "Sep 30, 2024 \u2014 Wish WordPress could do something it can't, but don't want to pay for an expensive plugin? In this video, we'll show y..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "This video shows how ChatGPT can be used to generate code for WordPress plugins:",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "Other Uses:",
+                  "text": "Simulating conversations: It can be used to simulate dialogues between characters for storytelling or game development. Educational support: Students can use it to get explanations, homework help, and tutoring. Personal productivity: It can be used for tasks like generating workout plans, creating shopping lists, or finding deals.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "OpenAI Developer Community",
+                      "domain": "community.openai.com",
+                      "url": "https://community.openai.com/t/what-do-people-use-chatgpt-for/432529#:~:text=Information%20retrieval:%20ChatGPT%20can%20answer,for%20storytelling%20and%20game%20development.",
+                      "title": "What do people use ChatGPT for - OpenAI Developer Community",
+                      "text": "Oct 14, 2023 \u2014 Information retrieval: ChatGPT can answer questions, provide explanations, and offer information on a wide variety of ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Investopedia",
+                      "domain": "www.investopedia.com",
+                      "url": "https://www.investopedia.com/what-is-chatgpt-7094342#:~:text=ChatGPT%20is%20a%20free%20chatbot,1",
+                      "title": "What Is ChatGPT, and How Does It Make Money? - Investopedia",
+                      "text": "Jun 27, 2025 \u2014 ChatGPT is a free chatbot that was released in November 2022 by the artificial intelligence (AI) research company Open..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "CNET",
+                      "domain": "www.cnet.com",
+                      "url": "https://www.cnet.com/tech/services-and-software/get-started-with-chatgpt-a-beginners-guide-to-using-the-super-popular-ai-chatbot/#:~:text=What%20does%20ChatGPT%20actually%20do,browse%20trending%20topics%20under%20Search.",
+                      "title": "Get Started With ChatGPT: A Beginner's Guide to Using ... - CNET",
+                      "text": "Jul 29, 2025 \u2014 What does ChatGPT actually do? ChatGPT can answer your questions, summarize text, write new content, code and translat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Medium",
+                      "domain": "medium.com",
+                      "url": "https://medium.com/e-com-ai-weekly/the-giant-list-of-500-ways-real-people-are-using-chatgpt-cdbfdf1d3c20#:~:text=I%20use%20it%20(%20ChatGPT%20)%20to,the%20best%20price%20(home%20decor%2C%20bags%2C%20etc.).",
+                      "title": "The Giant List of 500+ Ways Real People Are Using ChatGPT",
+                      "text": "Apr 29, 2025 \u2014 I use it ( ChatGPT ) to help me visualize my condo as I pull pieces together, help me pick paint colors, etc. Also, us..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "The Wall Street Journal",
+                      "domain": "www.wsj.com",
+                      "url": "https://www.wsj.com/tech/ai/chatgpt-voice-chat-usefulness-d004bfb3#:~:text=ChatGPT%20also%20helps%20with%20the%20practical%20challenge,ask%20it%20what%20items%20I%20need%20there.",
+                      "title": "7 Ways ChatGPT\u2019s Voice Chat Has Been Valuable to Me - WSJ",
+                      "text": "Sep 22, 2024 \u2014 ChatGPT also helps with the practical challenge of working your way through a shopping list. Before I go to the store,"
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=p3840QxlYzc&t=273",
+                  "title": "The CORRECT way to use ChatGPT (in 2025)",
+                  "text": "Jul 1, 2025 \u2014 if you need a fact with a quick explainer. use chat search building on top of the previous. example instead of just ask..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=PDw3Uk9dN9k",
+                  "title": "How to Use ChatGPT (2025)",
+                  "text": "Feb 10, 2025 \u2014 hi everyone Kevin. here today we're going to learn how to use Chat GPT chat GPT is an advanced AI that can answer ques..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI",
+                  "domain": "openai.com",
+                  "url": "https://openai.com/chatgpt/overview/#:~:text=Create%20images,DALL%C2%B7E%203",
+                  "title": "ChatGPT - OpenAI",
+                  "text": "Create images. Ask ChatGPT to create images using a simple sentence or detailed paragraph. You. My daughter loves pink jellyfish."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Developer Community",
+                  "domain": "community.openai.com",
+                  "url": "https://community.openai.com/t/what-do-people-use-chatgpt-for/432529#:~:text=Information%20retrieval:%20ChatGPT%20can%20answer,for%20storytelling%20and%20game%20development.",
+                  "title": "What do people use ChatGPT for - OpenAI Developer Community",
+                  "text": "Oct 14, 2023 \u2014 Information retrieval: ChatGPT can answer questions, provide explanations, and offer information on a wide variety of ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=0ahIpX6H2Fw&t=1421",
+                  "title": "50+ Insane Ways To Use The NEW ChatGPT",
+                  "text": "Apr 2, 2025 \u2014 and here's one from Joanna where they use Chat GPT to make a poster for their Death Valley. movie i mean it looks like ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=3dr7EwptbsY&pp=0gcJCfwAo7VqN5tD",
+                  "title": "5 Powerful Ways to Use ChatGPT for Academic Research (without getting busted)",
+                  "text": "Mar 19, 2025 \u2014 hey Professor David Stuckler here today I'm going to be sharing with you five incredibly powerful use cases of chat. G..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Investopedia",
+                  "domain": "www.investopedia.com",
+                  "url": "https://www.investopedia.com/what-is-chatgpt-7094342#:~:text=ChatGPT%20is%20a%20free%20chatbot,1",
+                  "title": "What Is ChatGPT, and How Does It Make Money? - Investopedia",
+                  "text": "Jun 27, 2025 \u2014 ChatGPT is a free chatbot that was released in November 2022 by the artificial intelligence (AI) research company Open..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Zapier",
+                  "domain": "zapier.com",
+                  "url": "https://zapier.com/blog/how-to-use-chatgpt/#:~:text=use%20ChatGPT:%20FAQs-,What%20is%20ChatGPT?,basic%20actions%20on%20your%20behalf",
+                  "title": "How to use ChatGPT: A beginner's guide to getting started - Zapier",
+                  "text": "What is ChatGPT? ChatGPT is a chatbot app built by OpenAI that can process text, image, and audio inputs (depending on the AI mode..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "CNET",
+                  "domain": "www.cnet.com",
+                  "url": "https://www.cnet.com/tech/services-and-software/get-started-with-chatgpt-a-beginners-guide-to-using-the-super-popular-ai-chatbot/#:~:text=What%20does%20ChatGPT%20actually%20do,browse%20trending%20topics%20under%20Search.",
+                  "title": "Get Started With ChatGPT: A Beginner's Guide to Using ... - CNET",
+                  "text": "Jul 29, 2025 \u2014 What does ChatGPT actually do? ChatGPT can answer your questions, summarize text, write new content, code and translat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Elegant Themes",
+                  "domain": "www.elegantthemes.com",
+                  "url": "https://www.elegantthemes.com/blog/business/what-is-chatgpt#:~:text=copy%20more%20relevant.-,4.,2em%20and%20make%20it%20red.",
+                  "title": "What is ChatGPT & 10 Creative Ways To Use It in 2025",
+                  "text": "Jan 7, 2025 \u2014 4. Creating WordPress Plugins. Another great way to use ChatGPT is to create plugins that you can use on your WordPress..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "University of Central Arkansas \u2014 UCA",
+                  "domain": "uca.edu",
+                  "url": "https://uca.edu/cetal/chat-gpt/#:~:text=Features%20and%20Limitations%20of%20ChatGPT,Classify%20things",
+                  "title": "Chat GPT: What is it? - University of Central Arkansas",
+                  "text": "Features and Limitations of ChatGPT One of the key features of chat GPT is its ability to generate responses like humans in real-t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "AIMultiple",
+                  "domain": "research.aimultiple.com",
+                  "url": "https://research.aimultiple.com/chatgpt-use-cases/#:~:text=ChatGPT%20can%20be%20used%20to,form%20content%20like%20entire%20articles",
+                  "title": "50 ChatGPT Use Cases with Real Life Examples in 2025",
+                  "text": "Jul 29, 2025 \u2014 ChatGPT can be used to generate high-quality content for websites, blogs, or social media platforms in a few seconds."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=PRbFHYcigfY#:~:text=by%20Ron%20Brown%20Discover%20the%20power%20of,information%2C%20combining%20real-time%20data%20with%20AI%20efficiency.",
+                  "title": "Introducing The Revolutionary Chat Gpt Search For Pc And Mobile!",
+                  "text": "Nov 3, 2024 \u2014 by Ron Brown Discover the power of Chat GPT Search in this detailed video! Released on November 1, 2024, Chat GPT Searc..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Medium",
+                  "domain": "medium.com",
+                  "url": "https://medium.com/e-com-ai-weekly/the-giant-list-of-500-ways-real-people-are-using-chatgpt-cdbfdf1d3c20#:~:text=I%20use%20it%20(%20ChatGPT%20)%20to,the%20best%20price%20(home%20decor%2C%20bags%2C%20etc.).",
+                  "title": "The Giant List of 500+ Ways Real People Are Using ChatGPT",
+                  "text": "Apr 29, 2025 \u2014 I use it ( ChatGPT ) to help me visualize my condo as I pull pieces together, help me pick paint colors, etc. Also, us..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "edX",
+                  "domain": "www.edx.org",
+                  "url": "https://www.edx.org/learn/chatgpt#:~:text=Marketing%20and%20advertising:%20Marketers%20can%20use%20ChatGPT,engaging%20content%2C%20and%20brainstorm%20creative%20campaign%20ideas.",
+                  "title": "Best Online ChatGPT Courses and Programs",
+                  "text": "Marketing and advertising: Marketers can use ChatGPT to draft ad copy, create engaging content, and brainstorm creative campaign i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=gn7yViTCHDw#:~:text=Wish%20WordPress%20could%20do%20something%20it%20can't%2C,Intro%2000:25%20Pros%20&%20Cons%20Of%20WordPress",
+                  "title": "How To Create A WordPress Plugin With ChatGPT (It's EASY!)",
+                  "text": "Sep 30, 2024 \u2014 Wish WordPress could do something it can't, but don't want to pay for an expensive plugin? In this video, we'll show y..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "LinkedIn",
+                  "domain": "www.linkedin.com",
+                  "url": "https://www.linkedin.com/pulse/how-use-chatgpt-research-tool-comprehensive-guide-glen-elvis-m-j",
+                  "title": "How to Use ChatGPT as a Research Tool: A Comprehensive Guide",
+                  "text": "May 12, 2023 \u2014 How to Use ChatGPT ( Chat GPT ) as a Research Tool: A Comprehensive Guide 1. Understanding ChatGPT 2. Generating Resea..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "The Wall Street Journal",
+                  "domain": "www.wsj.com",
+                  "url": "https://www.wsj.com/tech/ai/chatgpt-voice-chat-usefulness-d004bfb3#:~:text=ChatGPT%20also%20helps%20with%20the%20practical%20challenge,ask%20it%20what%20items%20I%20need%20there.",
+                  "title": "7 Ways ChatGPT\u2019s Voice Chat Has Been Valuable to Me - WSJ",
+                  "text": "Sep 22, 2024 \u2014 ChatGPT also helps with the practical challenge of working your way through a shopping list. Before I go to the store,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Roe Digital",
+                  "domain": "roedigital.com",
+                  "url": "https://roedigital.com/chatgpt/#:~:text=ChatGPT%20can%20condense%20large%20amounts%20of%20text,for%20summarizing%20articles%2C%20reports%2C%20or%20meeting%20notes.",
+                  "title": "What is ChatGPT?",
+                  "text": "ChatGPT can condense large amounts of text into shorter, more digestible summaries, proving helpful for summarizing articles, repo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "SCF Coding Academy",
+                  "domain": "coding.scf.edu",
+                  "url": "https://coding.scf.edu/ai-vs-ai-comparing-chatgpt-to-perplexity-ai/#:~:text=Versatility:%20It%20(%20ChatGPT%20)%20can%20also,writers%20and%20marketers%20in%20their%20brainstorming%20processes.",
+                  "title": "AI vs. AI: Comparing ChatGPT to Perplexity AI - SCF Advanced Technology Center",
+                  "text": "Mar 19, 2025 \u2014 Versatility: It ( ChatGPT ) can also be used in content creation, generating ideas for articles, stories, or marketing..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "product_considerations_element",
+          "title": "Is ChatGPT legal?",
+          "consideration_category": "Legal or not",
+          "expanded_element": [
+            {
+              "type": "product_considerations_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "ChatGPT's legality is complex, but generally, using it to generate text is legal. However, there are legal implications to consider, especially regarding ownership, copyright, and the potential for misuse. While users typically own the content they generate, legal risks arise if the generated content infringes on existing copyright or if the tool is used for harmful or deceptive purposes.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Botpress",
+                      "domain": "botpress.com",
+                      "url": "https://botpress.com/blog/are-there-any-legal-or-copyright-concerns-when-using-chatgpt-generated-content#:~:text=Content%20created%20by%20ChatGPT%20isn,laws%20have%20become%20increasingly%20relevant.",
+                      "title": "Are there any legal or copyright concerns when using ChatGPT ...",
+                      "text": "Jul 12, 2024 \u2014 Content created by ChatGPT isn't itself copyrighted by OpenAI, and users generally own the outputs they generate, but ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/ai-tools/legal-implications-chatgpt/#:~:text=Ownership%20of%20outputs,used%20to%20detect%20this%20offense.",
+                      "title": "What Are the Legal Implications of ChatGPT? - Scribbr",
+                      "text": "Jun 15, 2023 \u2014 Ownership of outputs It's somewhat unclear who actually owns the copyright of ChatGPT outputs. According to OpenAI's t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Aqueous Digital",
+                      "domain": "www.aqueous-digital.co.uk",
+                      "url": "https://www.aqueous-digital.co.uk/articles/does-chatgpt-own-your-content/#:~:text=Yes%2C%20users%20of%20ChatGPT%20(regardless,it%20for%20your%20own%20purposes.",
+                      "title": "Does ChatGPT own your content? - Aqueous Digital",
+                      "text": "Feb 18, 2025 \u2014 Yes, users of ChatGPT (regardless of whether they have a free or paid plan) can sell ChatGPT-generated output as per O..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "Here's a more detailed breakdown:",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "1. Ownership and Copyright:",
+                  "text": "OpenAI's terms of use generally grant users the right to reproduce and use ChatGPT outputs, including for commercial purposes. However, the outputs are not always unique, and multiple users could generate the same or similar content. Users are responsible for the content they generate and could be liable if it contains copyrighted material. OpenAI doesn't provide accurate citations, making it difficult for users to verify the originality of the content.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/ai-tools/legal-implications-chatgpt/#:~:text=Ownership%20of%20outputs,used%20to%20detect%20this%20offense.",
+                      "title": "What Are the Legal Implications of ChatGPT? - Scribbr",
+                      "text": "Jun 15, 2023 \u2014 Ownership of outputs It's somewhat unclear who actually owns the copyright of ChatGPT outputs. According to OpenAI's t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Aqueous Digital",
+                      "domain": "www.aqueous-digital.co.uk",
+                      "url": "https://www.aqueous-digital.co.uk/articles/does-chatgpt-own-your-content/#:~:text=Yes%2C%20users%20of%20ChatGPT%20(regardless,it%20for%20your%20own%20purposes.",
+                      "title": "Does ChatGPT own your content? - Aqueous Digital",
+                      "text": "Feb 18, 2025 \u2014 Yes, users of ChatGPT (regardless of whether they have a free or paid plan) can sell ChatGPT-generated output as per O..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Botpress",
+                      "domain": "botpress.com",
+                      "url": "https://botpress.com/blog/are-there-any-legal-or-copyright-concerns-when-using-chatgpt-generated-content#:~:text=Content%20created%20by%20ChatGPT%20isn,laws%20have%20become%20increasingly%20relevant.",
+                      "title": "Are there any legal or copyright concerns when using ChatGPT ...",
+                      "text": "Jul 12, 2024 \u2014 Content created by ChatGPT isn't itself copyrighted by OpenAI, and users generally own the outputs they generate, but ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "2. Potential Legal Risks:",
+                  "text": "Copyright Infringement: If ChatGPT outputs closely resemble copyrighted material, using them could lead to legal issues. Misinformation and Deception: Using ChatGPT to spread false information or deceive others is unethical and could have legal consequences. Privacy Violations: Sharing sensitive or confidential information with ChatGPT could lead to privacy breaches, especially if the information is later used inappropriately. Unauthorized Practice of Law: In some jurisdictions, using ChatGPT to provide legal advice without proper licensing could be illegal. Ethical Concerns: Using AI-generated content without proper attribution or oversight raises ethical concerns about plagiarism and originality.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Botpress",
+                      "domain": "botpress.com",
+                      "url": "https://botpress.com/blog/are-there-any-legal-or-copyright-concerns-when-using-chatgpt-generated-content#:~:text=Content%20created%20by%20ChatGPT%20isn,laws%20have%20become%20increasingly%20relevant.",
+                      "title": "Are there any legal or copyright concerns when using ChatGPT ...",
+                      "text": "Jul 12, 2024 \u2014 Content created by ChatGPT isn't itself copyrighted by OpenAI, and users generally own the outputs they generate, but ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Futurism",
+                      "domain": "futurism.com",
+                      "url": "https://futurism.com/chatgpt-legal-questions-court#:~:text=In%20response%20to%20that%20massive,ChatGPT%20is%20a%20language%20model.",
+                      "title": "If You've Asked ChatGPT a Legal Question, You May Have ... - Futurism",
+                      "text": "Jul 28, 2025 \u2014 In response to that massive acknowledgement, Jessee Bundy of the Creative Counsel Law firm pointed out that lawyers li..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Spellbook",
+                      "domain": "www.spellbook.legal",
+                      "url": "https://www.spellbook.legal/learn/is-it-legal-for-lawyers-use-chatgpt",
+                      "title": "Is ChatGPT Legal for Lawyers? What Every Lawyer Should Know",
+                      "text": "May 12, 2025 \u2014  Key takeaways * Use with caution \u2013 ChatGPT can assist with legal tasks, but lawyers must supervise outputs to avoid e..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=57wFvOqzBvg&t=17",
+                      "title": "Sam Altman on ChatGPT privacy: \"No legal confidentiality\"",
+                      "text": "8 days ago \u2014 people talk about the most personal in their lives to chatt. it's you know people use it young people especially like us..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "LibGuides at Widener Law Library",
+                      "domain": "libguides.law.widener.edu",
+                      "url": "https://libguides.law.widener.edu/c.php?g=1342893&p=10029527#:~:text=Federal%20Judge%20Forbids%20Use%20of,surrounding%20AI%20in%20legal%20practice.",
+                      "title": "ChatGPT & Legal News - Generative AI & Legal Research",
+                      "text": "Mar 14, 2025 \u2014 Federal Judge Forbids Use of ChatGPT by Out-State-Lawyers, Reason.com, 6/29/23. This article discusses a federal judge..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/ai-tools/legal-implications-chatgpt/#:~:text=Ownership%20of%20outputs,used%20to%20detect%20this%20offense.",
+                      "title": "What Are the Legal Implications of ChatGPT? - Scribbr",
+                      "text": "Jun 15, 2023 \u2014 Ownership of outputs It's somewhat unclear who actually owns the copyright of ChatGPT outputs. According to OpenAI's t..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "3. OpenAI's Stance:",
+                  "text": "OpenAI's terms of use prohibit using ChatGPT for illegal, harmful, or deceptive purposes. Users are expected to comply with all applicable laws and regulations. OpenAI emphasizes that users are responsible for the content they generate.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Botpress",
+                      "domain": "botpress.com",
+                      "url": "https://botpress.com/blog/are-there-any-legal-or-copyright-concerns-when-using-chatgpt-generated-content#:~:text=Content%20created%20by%20ChatGPT%20isn,laws%20have%20become%20increasingly%20relevant.",
+                      "title": "Are there any legal or copyright concerns when using ChatGPT ...",
+                      "text": "Jul 12, 2024 \u2014 Content created by ChatGPT isn't itself copyrighted by OpenAI, and users generally own the outputs they generate, but ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/ai-tools/legal-implications-chatgpt/#:~:text=Ownership%20of%20outputs,used%20to%20detect%20this%20offense.",
+                      "title": "What Are the Legal Implications of ChatGPT? - Scribbr",
+                      "text": "Jun 15, 2023 \u2014 Ownership of outputs It's somewhat unclear who actually owns the copyright of ChatGPT outputs. According to OpenAI's t..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "4. Practical Considerations:",
+                  "text": "Due Diligence: Users should exercise caution and verify the accuracy and originality of ChatGPT's output. Legal Advice: ChatGPT should not be used as a substitute for legal advice from a qualified professional. Confidentiality: Avoid sharing sensitive or confidential information with ChatGPT. Ethical Use: Be mindful of the ethical implications of using AI-generated content.",
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Spellbook",
+                      "domain": "www.spellbook.legal",
+                      "url": "https://www.spellbook.legal/learn/is-it-legal-for-lawyers-use-chatgpt",
+                      "title": "Is ChatGPT Legal for Lawyers? What Every Lawyer Should Know",
+                      "text": "May 12, 2025 \u2014  Key takeaways * Use with caution \u2013 ChatGPT can assist with legal tasks, but lawyers must supervise outputs to avoid e..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Scribbr",
+                      "domain": "www.scribbr.com",
+                      "url": "https://www.scribbr.com/ai-tools/legal-implications-chatgpt/#:~:text=Ownership%20of%20outputs,used%20to%20detect%20this%20offense.",
+                      "title": "What Are the Legal Implications of ChatGPT? - Scribbr",
+                      "text": "Jun 15, 2023 \u2014 Ownership of outputs It's somewhat unclear who actually owns the copyright of ChatGPT outputs. According to OpenAI's t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "Futurism",
+                      "domain": "futurism.com",
+                      "url": "https://futurism.com/chatgpt-legal-questions-court#:~:text=In%20response%20to%20that%20massive,ChatGPT%20is%20a%20language%20model.",
+                      "title": "If You've Asked ChatGPT a Legal Question, You May Have ... - Futurism",
+                      "text": "Jul 28, 2025 \u2014 In response to that massive acknowledgement, Jessee Bundy of the Creative Counsel Law firm pointed out that lawyers li..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "source": "YouTube\u00a0\u00b7",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=57wFvOqzBvg&t=17",
+                      "title": "Sam Altman on ChatGPT privacy: \"No legal confidentiality\"",
+                      "text": "8 days ago \u2014 people talk about the most personal in their lives to chatt. it's you know people use it young people especially like us..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Spellbook",
+                  "domain": "www.spellbook.legal",
+                  "url": "https://www.spellbook.legal/learn/is-it-legal-for-lawyers-use-chatgpt",
+                  "title": "Is ChatGPT Legal for Lawyers? What Every Lawyer Should Know",
+                  "text": "May 12, 2025 \u2014  Key takeaways * Use with caution \u2013 ChatGPT can assist with legal tasks, but lawyers must supervise outputs to avoid e..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Botpress",
+                  "domain": "botpress.com",
+                  "url": "https://botpress.com/blog/are-there-any-legal-or-copyright-concerns-when-using-chatgpt-generated-content#:~:text=Content%20created%20by%20ChatGPT%20isn,laws%20have%20become%20increasingly%20relevant.",
+                  "title": "Are there any legal or copyright concerns when using ChatGPT ...",
+                  "text": "Jul 12, 2024 \u2014 Content created by ChatGPT isn't itself copyrighted by OpenAI, and users generally own the outputs they generate, but ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Scribbr",
+                  "domain": "www.scribbr.com",
+                  "url": "https://www.scribbr.com/ai-tools/legal-implications-chatgpt/#:~:text=Ownership%20of%20outputs,used%20to%20detect%20this%20offense.",
+                  "title": "What Are the Legal Implications of ChatGPT? - Scribbr",
+                  "text": "Jun 15, 2023 \u2014 Ownership of outputs It's somewhat unclear who actually owns the copyright of ChatGPT outputs. According to OpenAI's t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "LibGuides at Widener Law Library",
+                  "domain": "libguides.law.widener.edu",
+                  "url": "https://libguides.law.widener.edu/c.php?g=1342893&p=10029527#:~:text=Federal%20Judge%20Forbids%20Use%20of,surrounding%20AI%20in%20legal%20practice.",
+                  "title": "ChatGPT & Legal News - Generative AI & Legal Research",
+                  "text": "Mar 14, 2025 \u2014 Federal Judge Forbids Use of ChatGPT by Out-State-Lawyers, Reason.com, 6/29/23. This article discusses a federal judge..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=57wFvOqzBvg&t=17",
+                  "title": "Sam Altman on ChatGPT privacy: \"No legal confidentiality\"",
+                  "text": "8 days ago \u2014 people talk about the most personal in their lives to chatt. it's you know people use it young people especially like us..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Futurism",
+                  "domain": "futurism.com",
+                  "url": "https://futurism.com/chatgpt-legal-questions-court#:~:text=In%20response%20to%20that%20massive,ChatGPT%20is%20a%20language%20model.",
+                  "title": "If You've Asked ChatGPT a Legal Question, You May Have ... - Futurism",
+                  "text": "Jul 28, 2025 \u2014 In response to that massive acknowledgement, Jessee Bundy of the Creative Counsel Law firm pointed out that lawyers li..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Aqueous Digital",
+                  "domain": "www.aqueous-digital.co.uk",
+                  "url": "https://www.aqueous-digital.co.uk/articles/does-chatgpt-own-your-content/#:~:text=Yes%2C%20users%20of%20ChatGPT%20(regardless,it%20for%20your%20own%20purposes.",
+                  "title": "Does ChatGPT own your content? - Aqueous Digital",
+                  "text": "Feb 18, 2025 \u2014 Yes, users of ChatGPT (regardless of whether they have a free or paid plan) can sell ChatGPT-generated output as per O..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "product_considerations_element",
+          "title": "What happened to ChatGPT?",
+          "consideration_category": "Current status",
+          "expanded_element": [
+            {
+              "type": "product_considerations_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "ChatGPT has experienced several notable issues recently, including a major outage that affected users worldwide for over 10 hours. Additionally, there have been reports of technical glitches, bugs, and server maintenance affecting the platform's performance. OpenAI has also addressed issues with overly agreeable responses ( sycophancy ) in the GPT-4o model. Furthermore, some users experienced problems with the long-term memory system after a backend update.",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": "Here's a more detailed breakdown:",
+                  "text": "Global Outage: A significant outage on June 10, 2025, impacted ChatGPT, Sora, and OpenAI's APIs, causing widespread disruptions for users. The outage lasted for over 10 hours before services were fully restored. Technical Issues: Users have reported various technical glitches and bugs, including issues with long-term memory and overly agreeable responses in GPT-4o. Memory System Problems: After a backend update, some users reported issues with ChatGPT's long-term memory, including lost or corrupted memory data. Sycophancy in GPT-4o: OpenAI acknowledged and rolled back a GPT-4o update due to issues with overly flattering or agreeable responses. OpenAI acknowledged this on their website They are actively working on a fix and revising their feedback mechanisms. Google Search Integration: ChatGPT chat sessions are now appearing in Google search results, which is a change in how user conversations are handled.",
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "OpenAI has acknowledged the issues and is working on resolving them. They provide updates on their status page",
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Developer Community",
+                  "domain": "community.openai.com",
+                  "url": "https://community.openai.com/t/catastrophic-failures-of-chatgpt-thats-creating-major-problems-for-users/1156230",
+                  "title": "Catastrophic Failures of ChatGpt that's creating major problems for users",
+                  "text": "Mar 29, 2025 \u2014  Here's the actual sequence from user reports, platform data, and known issues: * Feb 5, 2025: After a backend memory ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI",
+                  "domain": "openai.com",
+                  "url": "https://openai.com/index/sycophancy-in-gpt-4o/#:~:text=Product-,Sycophancy%20in%20GPT-4o:%20what%20happened%20and%20what%20we',with%20ChatGPT%20evolve%20over%20time.",
+                  "title": "Sycophancy in GPT-4o: what happened and what we're doing ...",
+                  "text": "Apr 29, 2025 \u2014 Sycophancy in GPT-4o: what happened and what we're doing about it. Listen to article. We have rolled back last week's ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "ZDNET",
+                  "domain": "www.zdnet.com",
+                  "url": "https://www.zdnet.com/article/was-chatgpt-down-for-you-on-tuesday-heres-what-happened/#:~:text=On%20its%20own%20status%20page,working%20properly%20for%20all%20users.",
+                  "title": "Was ChatGPT down for you on Tuesday? Here's what happened",
+                  "text": "Jun 11, 2025 \u2014 On its own status page, OpenAI showed that the service was experiencing issues. One status update pointed to elevated ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Tom's Guide",
+                  "domain": "www.tomsguide.com",
+                  "url": "https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025#:~:text=A%20surprise%20outage%20caused%20ChatGPT,Refresh",
+                  "title": "ChatGPT is back following global outage \u2014 here's what happened",
+                  "text": "Jun 11, 2025 \u2014 A surprise outage caused ChatGPT to go offline for users around the world on June 10, 2025 \u2014 eventually lasting over 1..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "OpenAI Help Center",
+                  "domain": "help.openai.com",
+                  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Updates%20to%20GPT-4o,going%20to%20make%20going%20forward.",
+                  "title": "ChatGPT \u2014 Release Notes - OpenAI Help Center",
+                  "text": "Updates to GPT-4o. We've reverted the most recent update to GPT-4o due to issues with overly agreeable responses (sycophancy). We'"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "TechRadar",
+                  "domain": "www.techradar.com",
+                  "url": "https://www.techradar.com/news/live/chatgpt-down-june-10#:~:text=Yes%2C%20users%20are%20reporting%20issues,Get%20notified%20of%20updates",
+                  "title": "ChatGPT is down again \u2013 here's everything we know about its latest ...",
+                  "text": "Jun 11, 2025 \u2014 Yes, users are reporting issues again after a widespread outage yesterday. OpenAI products were experiencing outages f..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Windows Central",
+                  "domain": "www.windowscentral.com",
+                  "url": "https://www.windowscentral.com/artificial-intelligence/chatgpt-chats-will-now-show-up-in-google-search-which-is-alarming-but-theres-an-easy-way-to-stop-it-from-happening#:~:text=ChatGPT%20chats%20will%20now%20show,to%20stop%20it%20from%20happening&text=You%20can%20look%20at%20other,after%20a%20specific%20user%20interaction.",
+                  "title": "ChatGPT chat sessions will show up now in Google search",
+                  "text": "Jul 31, 2025 \u2014 ChatGPT chats will now show up in Google search, which is alarming \u2014 but there's an easy way to stop it from happening..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Geekflare",
+                  "domain": "geekflare.com",
+                  "url": "https://geekflare.com/blog/restore-chatgpt-history/#:~:text=ChatGPT%20often%20stops%20functioning%20efficiently,browser%20session%20that%20runs%20ChatGPT.",
+                  "title": "Solved: 9 Ways to Restore Your Lost ChatGPT History - Geekflare",
+                  "text": "5 days ago \u2014 ChatGPT often stops functioning efficiently due to technical glitches and bugs or server maintenance and updates. The up..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "product_considerations_element",
+          "title": "Who runs ChatGPT?",
+          "consideration_category": "Developers",
+          "expanded_element": [
+            {
+              "type": "product_considerations_ai_overview_expanded_element",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "ChatGPT is developed and run by OpenAI, a leading artificial intelligence research and deployment company. OpenAI is the creator of the GPT (Generative Pre-trained Transformer) family of language models, including the chatbot ChatGPT. Sam Altman is the current CEO of OpenAI.",
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Who Owns ChatGPT and Its Creator, OpenAI?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/08091345-1066-0139-0000-edc5b9da4f8f:8"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "title": null,
+                  "text": "This video explains the history of OpenAI and the development of ChatGPT:",
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Reddit\u00a0\u00b7",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/questions/comments/1izmvfd/who_owns_chat_gpt_and_how_is_it_paid_for/#:~:text=r/pokemon,120%20upvotes%20%C2%B7%2038%20comments",
+                  "title": "Who owns CHAT GPT? And how is it paid for, advertising? - Reddit",
+                  "text": "Feb 27, 2025 \u2014 r/pokemon. \u2022 3 yr. ago. Anyone using chatgpt for Pok\u00e9mon ? 2 upvotes \u00b7 4 comments. Sam Altman says OpenAI have an inte..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Scribbr",
+                  "domain": "www.scribbr.com",
+                  "url": "https://www.scribbr.com/frequently-asked-questions/who-owns-chatgpt/#:~:text=ChatGPT%20is%20owned%20by%20OpenAI,it%20for%20your%20own%20purposes.",
+                  "title": "Who owns ChatGPT? - Scribbr",
+                  "text": "ChatGPT is owned by OpenAI, the company that developed and released it. OpenAI is a company dedicated to AI research. It started a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Wikipedia, the free encyclopedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/ChatGPT#:~:text=ChatGPT%20is%20a%20generative%20artificial,%2C%20audio%2C%20and%20image%20prompts.",
+                  "title": "ChatGPT - Wikipedia",
+                  "text": "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and released on November 30, 2022. It uses GPT-5, a ge..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Wikipedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Sam_Altman#:~:text=Samuel%20Harris%20Altman%20(born%20April,figures%20of%20the%20AI%20boom.",
+                  "title": "Sam Altman - Wikipedia",
+                  "text": "Samuel Harris Altman (born April 22, 1985) is an American entrepreneur, investor, and chief executive officer of OpenAI since 2019..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Wikipedia, the free encyclopedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/OpenAI#:~:text=As%20a%20leading%20organization%20in,widespread%20interest%20in%20generative%20AI.",
+                  "title": "OpenAI - Wikipedia",
+                  "text": "As a leading organization in the ongoing AI boom, OpenAI is known for the GPT family of large language models, the DALL-E series o..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "YouTube\u00a0\u00b7",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=VdACzw_D6pY&t=11",
+                  "title": "Why ChatGPT Turned OpenAI Into A $80 Billion AI Leader",
+                  "text": "Aug 10, 2024 \u2014 and one company in particular seems to be on everyone's lips open AI breaking news right now on Open AI open AI and Al..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "source": "Enterprise DNA",
+                  "domain": "blog.enterprisedna.co",
+                  "url": "https://blog.enterprisedna.co/who-owns-chat-gpt-2/#:~:text=Chat%20GPT%20is%20owned%20and%20developed%20by,Francisco%20that%20was%20launched%20in%20December%202015.",
+                  "title": "Who Owns Chat GPT: Unveiling the Company Behind the AI",
+                  "text": "Chat GPT is owned and developed by OpenAI, a leading artificial intelligence research and deployment company based in San Francisc..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 5,
+      "rank_absolute": 6,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+      "domain": "play.google.com",
+      "title": "ChatGPT - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://play.google.com \u203a store \u203a apps \u203a details \u203a id=com...",
+      "website_name": "Google Play",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "free, syncs your history across devices"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 6,
+      "rank_absolute": 7,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+      "domain": "apps.apple.com",
+      "title": "ChatGPT on the App Store - Apple",
+      "url": "https://apps.apple.com/us/app/chatgpt/id6448311069",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://apps.apple.com \u203a app \u203a chatgpt",
+      "website_name": "Apple",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "free, syncs your history across devices"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 7,
+      "rank_absolute": 8,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+      "domain": "en.wikipedia.org",
+      "title": "ChatGPT",
+      "url": "https://en.wikipedia.org/wiki/ChatGPT",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://en.wikipedia.org \u203a wiki \u203a ChatGPT",
+      "website_name": "Wikipedia",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and released on November 30, 2022.",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "ChatGPT"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "organic",
+      "rank_group": 8,
+      "rank_absolute": 9,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+      "domain": "chatgpt.com",
+      "title": "Get started - ChatGPT",
+      "url": "https://chatgpt.com/auth/login",
+      "cache_url": null,
+      "related_search_url": null,
+      "breadcrumb": "https://chatgpt.com \u203a auth \u203a login",
+      "website_name": "chatgpt.com",
+      "is_image": false,
+      "is_video": false,
+      "is_featured_snippet": false,
+      "is_malicious": false,
+      "is_web_story": false,
+      "description": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning,",
+      "pre_snippet": null,
+      "extended_snippet": null,
+      "images": null,
+      "amp_version": false,
+      "rating": null,
+      "price": null,
+      "highlighted": [
+        "ChatGPT helps you get answers, find inspiration and be more productive"
+      ],
+      "links": null,
+      "faq": null,
+      "extended_people_also_search": null,
+      "about_this_result": null,
+      "related_result": null,
+      "timestamp": null,
+      "rectangle": null
+    },
+    {
+      "type": "top_stories",
+      "rank_group": 1,
+      "rank_absolute": 10,
+      "position": "left",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[11]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/g-section-with-header[1]",
+      "title": "Top stories",
+      "items": [
+        {
+          "type": "top_stories_element",
+          "source": "CNN",
+          "domain": "www.cnn.com",
+          "title": "ChatGPT is getting a big upgrade. It\u2019s smarter and less likely to deceive you",
+          "date": "1 day ago",
+          "amp_version": false,
+          "timestamp": "2025-08-08 10:45:31 +00:00",
+          "url": "https://www.cnn.com/2025/08/07/tech/openai-gpt-5-chatgpt-launch",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYg17A_M0KXUZ6_3M263rI2t4X4PUan_-1T4yd8C_SJJxeMV8wQjIU6LHBA&usqp=CAI&s=10",
+          "badges": null
+        },
+        {
+          "type": "top_stories_element",
+          "source": "TechRadar",
+          "domain": "www.techradar.com",
+          "title": "GPT-5 just launched and ChatGPT users are already unhappy with OpenAI\u2019s next gen chatbot",
+          "date": "1 day ago",
+          "amp_version": false,
+          "timestamp": "2025-08-08 10:45:31 +00:00",
+          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-users-are-not-happy-with-gpt-5-launch-as-thousands-take-to-reddit-claiming-the-new-upgrade-is-horrible",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ne7vqcdlMXU6SKnS22nG2507WuTAc2y2jgF3iguk0wutld8ez5b33iQ&usqp=CAI&s",
+          "badges": null
+        },
+        {
+          "type": "top_stories_element",
+          "source": "The Verge",
+          "domain": "www.theverge.com",
+          "title": "ChatGPT is bringing back 4o as an option because people missed it",
+          "date": "15 hours ago",
+          "amp_version": false,
+          "timestamp": "2025-08-08 19:45:31 +00:00",
+          "url": "https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfyPAZiB4j3KbfacoOt3mD0mavT1J2Qk0NVrNrSyWdkSrLuYYmCT8hwrI&usqp=CAI&s",
+          "badges": null
+        },
+        {
+          "type": "top_stories_element",
+          "source": "Live Science",
+          "domain": "www.livescience.com",
+          "title": "Man sought diet advice from ChatGPT and ended up with 'bromide intoxication'",
+          "date": "15 hours ago",
+          "amp_version": false,
+          "timestamp": "2025-08-08 19:45:31 +00:00",
+          "url": "https://www.livescience.com/health/food-diet/man-sought-diet-advice-from-chatgpt-and-ended-up-with-bromide-intoxication",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1P5HIY9jGymXzlI37Hl0Z5oC4MFZQidaPiMvNaHLbUTPt6Sa1C9gS8bQ&usqp=CAI&s",
+          "badges": null
+        },
+        {
+          "type": "top_stories_element",
+          "source": "HuffPost",
+          "domain": "www.huffpost.com",
+          "title": "60-Year-Old Gave Himself Early 20th Century Psychosis After He Went To ChatGPT For Diet Advice",
+          "date": "13 hours ago",
+          "amp_version": false,
+          "timestamp": "2025-08-08 21:45:31 +00:00",
+          "url": "https://www.huffpost.com/entry/salt-chatgpt-bromine-psychosis_n_68964b6ae4b04eeb1a12b717",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14cnfcaMjVuwjZBUcVmd30YZH1tXQBBuAovDJUu4K4t3agaNToG2OsrQ&usqp=CAI&s",
+          "badges": null
+        },
+        {
+          "type": "top_stories_element",
+          "source": "The New York Times",
+          "domain": "www.nytimes.com",
+          "title": "Chatbots Can Go Into a Delusional Spiral. Here\u2019s How It Happens.",
+          "date": "1 day ago",
+          "amp_version": false,
+          "timestamp": "2025-08-08 10:45:31 +00:00",
+          "url": "https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiFiEqt4ZhzJkXbUF7B0p1M08JxUJBDfcDDJvKe9bGbuUHTuJoJfwTlw&usqp=CAI&s",
+          "badges": null
+        },
+        {
+          "type": "top_stories_element",
+          "source": "AOL.com",
+          "domain": "www.aol.com",
+          "title": "I Asked ChatGPT If Universal Basic Income Could Replace Social Security: Here\u2019s What It Said",
+          "date": "57 minutes ago",
+          "amp_version": false,
+          "timestamp": "2025-08-09 09:48:31 +00:00",
+          "url": "https://www.aol.com/asked-chatgpt-universal-basic-income-093004158.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRysKWtkWcK0KPTd9MvKqB_SVr2zPn0mMFl5DZD9dTGpkPdFRqUITOxRyY&usqp=CAI&s",
+          "badges": null
+        }
+      ],
+      "rectangle": null
+    }
+  ]
+}
