@@ -16,8 +16,8 @@ from fast_ai_visibility_monitor import FastAIVisibilityMonitor, FastUserInput, r
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="Fast AI Visibility API",
-    description="High-speed AI visibility analysis for SaaS onboarding",
+    title="RankAied AI Visibility API",
+    description="High-speed AI visibility analysis for RankAied SaaS onboarding",
     version="2.0.0",
     docs_url="/docs",
     redoc_url="/redoc"
