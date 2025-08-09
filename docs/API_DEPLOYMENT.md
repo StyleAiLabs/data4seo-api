@@ -48,8 +48,15 @@
 
 ### **Base URL**
 ```
-https://your-service-name.onrender.com
+https://data4seo-api.onrender.com
 ```
+
+**🎯 Your deployed service now includes both v1 and v2 endpoints!**
+
+- **Standard API (v1)**: `https://data4seo-api.onrender.com/api/v1/`
+- **Fast API (v2)**: `https://data4seo-api.onrender.com/api/v2/` ⚡
+- **API Information**: `https://data4seo-api.onrender.com/api/info`
+- **Interactive Docs**: `https://data4seo-api.onrender.com/docs`
 
 ### **Authentication**
 No API key required. DataForSEO credentials are configured server-side.
@@ -496,7 +503,7 @@ curl "https://your-service.onrender.com/api/v1/analysis/ANALYSIS_ID"
 
 **Quick Onboarding Analysis:**
 ```bash
-curl -X POST "https://your-service.onrender.com/api/v2/onboarding-analysis" \
+curl -X POST "https://data4seo-api.onrender.com/api/v2/onboarding-analysis" \
      -H "Content-Type: application/json" \
      -d '{
        "brand_name": "Nike",
@@ -508,7 +515,7 @@ curl -X POST "https://your-service.onrender.com/api/v2/onboarding-analysis" \
 
 **Fast Detailed Analysis:**
 ```bash
-curl -X POST "https://your-service.onrender.com/api/v2/fast-analysis" \
+curl -X POST "https://data4seo-api.onrender.com/api/v2/fast-analysis" \
      -H "Content-Type: application/json" \
      -d '{
        "brand_name": "Nike",
@@ -521,7 +528,7 @@ curl -X POST "https://your-service.onrender.com/api/v2/fast-analysis" \
 
 **Demo Endpoint (No Credentials Required):**
 ```bash
-curl "https://your-service.onrender.com/api/v2/onboarding-demo"
+curl "https://data4seo-api.onrender.com/api/v2/onboarding-demo"
 ```
 
 ### **Local Development Testing**
@@ -627,17 +634,13 @@ analyzeVisibility();
 
 Once deployed, visit these URLs for interactive documentation:
 
-### **Standard API (v1) Documentation**
-- **Swagger UI**: `https://your-service.onrender.com/docs`
-- **ReDoc**: `https://your-service.onrender.com/redoc`
-
-### **Fast API (v2) Documentation**  
-- **Swagger UI**: `https://your-fast-service.onrender.com/docs`
-- **ReDoc**: `https://your-fast-service.onrender.com/redoc`
+### **Combined API Service Documentation**
+- **Swagger UI**: `https://data4seo-api.onrender.com/docs`
+- **ReDoc**: `https://data4seo-api.onrender.com/redoc`
+- **API Info**: `https://data4seo-api.onrender.com/api/info`
 
 ### **Local Development Documentation**
-- **Standard API**: `http://localhost:8000/docs`
-- **Fast API**: `http://localhost:8001/docs`
+- **Combined API**: `http://localhost:8000/docs`
 
 **Features:**
 - ✅ Interactive endpoint testing
@@ -645,6 +648,7 @@ Once deployed, visit these URLs for interactive documentation:
 - ✅ Parameter validation
 - ✅ Response schema documentation
 - ✅ Try-it-now functionality
+- ✅ Both v1 and v2 endpoints in one service
 
 ---
 
