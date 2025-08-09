@@ -5,7 +5,21 @@ Welcome to the comprehensive documentation for the DataForSEO AI Visibility Moni
 ## 📋 Documentation Index
 
 ### 🚀 **Quick Start & Optimization**
-- **[SAAS_OPTIMIZATION_GUIDE.md](SAAS_OPTIMIZATION_GUIDE.md)** ⭐
+- **[OPTIMIZATION_COMPLETE.md](OPTIMIZATION_COMPLETE.md)** ⭐ **NEW**
+  - Complete optimization implementation guide
+  - Single endpoint architecture with fast/comprehensive modes
+  - Performance testing results and findings
+
+- **[OPTIMIZED_API_GUIDE.md](OPTIMIZED_API_GUIDE.md)** ⭐ **NEW**
+  - Comprehensive guide for the optimized single endpoint API
+  - Fast mode (15-30s) vs Comprehensive mode (2-5min) documentation
+  - Perfect SaaS integration examples
+
+- **[FAST_API_DEPLOYMENT_FIXED.md](FAST_API_DEPLOYMENT_FIXED.md)** **NEW**
+  - Fast API deployment solution and troubleshooting
+  - Production deployment fixes and optimizations
+
+- **[SAAS_OPTIMIZATION_GUIDE.md](SAAS_OPTIMIZATION_GUIDE.md)**
   - Complete guide to 5-10x performance improvements
   - SaaS integration strategies for user onboarding
   - Real-world speed optimizations (2-3 minutes → 30 seconds)

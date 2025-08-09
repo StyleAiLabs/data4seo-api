@@ -1,61 +1,77 @@
-# Demos
+# 🎮 Demos
 
-This folder contains demonstration scripts that showcase the AI Visibility Monitor capabilities without requiring full API setup.
+This folder contains demonstration scripts and examples for the AI Visibility Monitor API.
 
-## 📁 Demo Scripts
+## � **Contents**
 
-### `demo_performance_optimizations.py`
-**Purpose:** Comprehensive demonstration of all performance optimizations
-- ⚡ Shows parallel vs sequential processing concepts
-- 🎯 Demonstrates keyword optimization strategies  
-- 🔧 Explains analysis logic streamlining
-- 💼 Business impact analysis for SaaS integration
-- 📊 Theoretical performance improvements (200x+ faster)
-- ✅ **No API credentials required**
+### **🚀 Optimized API Demos**
+- `demo_optimized_modes.py` - **NEW** Demo of fast vs comprehensive modes
+- `demo_performance_optimizations.py` - Performance optimization demonstrations
+- `simple_fast_demo.py` - Simple fast API demonstration
+- `demo.py` - General API demonstration
 
-**Usage:**
+## 🎯 **Featured Demo: Optimized Modes**
+
+### **Fast vs Comprehensive Mode Demo**
 ```bash
-python demo_performance_optimizations.py
+python demos/demo_optimized_modes.py
 ```
 
-### `simple_fast_demo.py`
-**Purpose:** Quick demonstration of fast analysis with minimal API calls
-- 🚀 Shows real vs simulated performance
-- 🎯 Integration code examples
-- 💡 SaaS implementation guidance
-- ⚡ Demonstrates actual speed improvements
-- 🔑 **Requires DataForSEO credentials (optional)**
+This demo shows:
+- **Fast Mode**: 15-30 second analysis perfect for SaaS onboarding
+- **Comprehensive Mode**: 2-5 minute detailed analysis for reports
+- Performance comparisons and use case recommendations
+- Expected response formats and metrics
 
-**Usage:**
+## 📊 **Demo Categories**
+
+| Demo | Purpose | Use Case |
+|------|---------|----------|
+| `demo_optimized_modes.py` | Show fast vs comprehensive modes | API integration guidance |
+| `demo_performance_optimizations.py` | Performance improvements | Understanding optimizations |
+| `simple_fast_demo.py` | Quick fast API example | Simple integration |
+| `demo.py` | General API usage | Basic understanding |
+
+## ▶️ **Running Demos**
+
+### **Run Optimized Modes Demo**
 ```bash
-python simple_fast_demo.py
+# From project root
+python demos/demo_optimized_modes.py
 ```
 
-### `demo.py`
-**Purpose:** Original demonstration script for basic functionality
-- 📋 Basic AI visibility analysis workflow
-- 🔍 Brand visibility detection examples
-- 📊 Simple result formatting
-- 🎯 Educational walkthrough
-
-**Usage:**
+### **Run Performance Demo**
 ```bash
-python demo.py
+python demos/demo_performance_optimizations.py
 ```
 
-## 🎯 When to Use Each Demo
+### **Run Simple Demo**
+```bash
+python demos/simple_fast_demo.py
+```
 
-| Demo Script | Best For | Time | Requirements |
-|-------------|----------|------|--------------|
-| `demo_performance_optimizations.py` | Understanding optimizations, presentations | 5s | None |
-| `simple_fast_demo.py` | Quick real-world validation | 10-15s | API credentials (optional) |
-| `demo.py` | Basic functionality overview | Variable | API credentials |
+## 🎯 **Demo Features**
 
-## 🚀 Perfect for:
-- Client presentations
-- Technical demonstrations
-- Understanding optimization concepts
-- Quick validation of improvements
-- Educational purposes
+### **Visual Comparisons**
+- Side-by-side performance metrics
+- Expected vs actual response times  
+- Resource usage comparisons
+- Use case recommendations
 
-All demo scripts are designed to be self-contained and provide clear explanations of the AI Visibility Monitor capabilities.
+### **Interactive Examples**
+- Live API calls (if credentials available)
+- Sample request/response data
+- Performance insights and recommendations
+
+## 🔧 **Requirements**
+
+- Python 3.8+
+- Optional: DataForSEO credentials for live demos
+- Internet connection for API calls
+
+## 💡 **Best Practices Shown**
+
+- Proper error handling
+- Async/await patterns
+- Performance monitoring
+- User experience optimization for SaaS integration

@@ -49,13 +49,58 @@ echo "DATAFORSEO_LOGIN=your_login" > .env
 echo "DATAFORSEO_PASSWORD=your_password" >> .env
 ```
 
-### 3. Test Performance (Recommended)
+### 3. Test the Optimized API
 ```bash
-# Test optimized fast analysis (30-second demo)
-python demos/demo_performance_optimizations.py
+# Test fast mode (perfect for SaaS onboarding)
+python tests/test_fast_mode_workflow.py
 
-# Test with real API calls
-python tests/performance/test_performance_improvements.py
+# Demo fast vs comprehensive modes
+python demos/demo_optimized_modes.py
+
+# Test real business scenarios
+python tests/test_business_scenario.py
+```
+
+## 🗂️ **Organized Project Structure**
+
+```
+📁 data4seo-api/
+├── 🔧 Core Application
+│   ├── api_service.py                    # ⭐ Main optimized API service (v2.0.0)
+│   ├── ai_visibility_monitor.py          # Core monitoring engine
+│   ├── fast_ai_visibility_monitor.py     # Performance optimized monitor  
+│   └── requirements.txt                  # Python dependencies
+│
+├── 📚 docs/                             # 📖 Comprehensive documentation
+│   ├── OPTIMIZATION_COMPLETE.md         # ⭐ Complete optimization guide
+│   ├── OPTIMIZED_API_GUIDE.md           # ⭐ Single endpoint API guide
+│   ├── FAST_API_DEPLOYMENT_FIXED.md     # ⭐ Deployment solutions
+│   ├── API_DEPLOYMENT.md                # Deployment instructions
+│   └── SAAS_OPTIMIZATION_GUIDE.md       # SaaS integration guide
+│
+├── 🧪 tests/                            # 🔬 All test files (organized)
+│   ├── test_optimized_api.py            # ⭐ Optimized API tests
+│   ├── test_fast_mode_workflow.py       # ⭐ Fast mode workflow tests
+│   ├── test_business_scenario.py        # Real business use cases
+│   └── quick_test.py                    # Quick validation tests
+│
+├── 🎮 demos/                            # 🎯 Demo scripts and examples
+│   ├── demo_optimized_modes.py          # ⭐ Fast vs comprehensive demo
+│   ├── demo_performance_optimizations.py # Performance demonstrations
+│   └── simple_fast_demo.py              # Simple integration example
+│
+├── 📄 scripts/                          # ⚙️ Deployment and setup scripts
+│   ├── setup.sh                         # Environment setup
+│   ├── deploy.sh                        # Production deployment
+│   └── build.sh                         # Application build
+│
+├── 🗂️ backup/                           # 📦 Backup versions
+│   ├── api_service_backup.py            # Original API (v1/v2 structure)
+│   └── fast_api_service.py              # Separate fast API (consolidated)
+│
+├── 📊 results/                          # 📈 Analysis outputs
+├── 🐛 debug/                            # 🔍 Debug scripts
+└── ⚙️ config.json                       # Configuration
 ```
 
 ### 4. Deploy Fast API for SaaS
